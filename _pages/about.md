@@ -16,4 +16,4 @@ Among my current responsibilities are co-editing [*The Forum: A Journal of Appli
 
 [CV](https://www.dropbox.com/s/n7g8eo7dnvba74o/DevinCaugheyCV.pdf?dl=1)
 
-My surname is pronounced "Ko-ee" (IPA: koʊw)
+I pronounce my surname so that it rhymes with "doughy" (IPA: 'koʊi).
