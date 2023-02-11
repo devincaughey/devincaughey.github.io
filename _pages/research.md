@@ -21,11 +21,11 @@ My first book, *The Unsolid South*, examines congressional representation in the
 
 My second book, *Dynamic Democracy*, is a culmination of my long-running (and
 still ongoing!) collaboration with Christopher Warshaw on public opinion,
-political parties, and policymkaing in the American states. This book offers a
+political parties, and policymaking in the American states. This book offers a
 holistic, birds-eye view of state politics between the 1930s and 2010s, with an
 emphasis on the dynamic relationship between mass policy preferences and state
 policies. We argue that while the quality of state-level democracy is uneven and
-responsivenes can be painfully slow, over the long run public opinion exerts a
+responsiveness can be painfully slow, over the long run public opinion exerts a
 powerful influence over policymaking.
 
 # Articles #
