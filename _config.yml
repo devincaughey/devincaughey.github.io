@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devin Caughey's Academic Website"
+title                    : "Devin Caughey's Website"
 title_separator          : "-"
 name                     : &name "Devin Caughey"
 description              : &description "Political scientist at MIT"
