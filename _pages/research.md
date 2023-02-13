@@ -20,13 +20,11 @@ My research comprises several overlapping streams, some substantive in focus and
 
 ## The One-Party South ##
 
-### Published ###
-
-[*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. [Publisher](https://press.princeton.edu/titles/13231.html) | [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | [Replication](/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south_replication)
+[*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](https://github.com/devincaughey/devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. [Publisher](https://press.princeton.edu/titles/13231.html) | [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | [Replication](https://github.com/devincaughey/devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south_replication)
   
 <details>
-<summary> *Abstract* </summary>
-*The Unsolid South* examines congressional representation in the Jim Crow South in the decades following the New Deal. Marshaling a combination of qualitative and quantiative evidence, I dispute the conventional wisdom that lack of partisan competition destroyed the electoral connection between Southern members of Congress (MCs) and their constituents. I show that although Black Southerners were almost totally disenfranchised, the class-biased exclusion of White Southerners (through devices such as the poll tax) was both less extensive and, given sufficient motivation and mobilization, more easily overcome. Furthermore, while the South did lack partisan competition, the so-called White primary offered meaningful opportunities for electoral competition within the one-party system. The consequence, I argue, was that Southern MCs' responsiveness to their enfranchised (i.e., White) constituents was not noticeably weaker than their non-Southern counterparts.
+<summary> Abstract </summary>
+*The Unsolid South* examines congressional representation in the Jim Crow South in the decades following the New Deal. Marshaling a combination of qualitative and qualitative evidence, I dispute the conventional wisdom that lack of partisan competition destroyed the electoral connection between Southern members of Congress (MCs) and their constituents. I show that although Black Southerners were almost totally disenfranchised, the class-biased exclusion of White Southerners (through devices such as the poll tax) was both less extensive and, given sufficient motivation and mobilization, more easily overcome. Furthermore, while the South did lack partisan competition, the so-called White primary offered meaningful opportunities for electoral competition within the one-party system. The consequence, I argue, was that Southern MCs' responsiveness to their enfranchised (i.e., White) constituents was not noticeably weaker than their non-Southern counterparts.
 
 These conclusions have major historical as well as theoretical implications. From the standpoint of historical interpretation, they provide an alternative explanation for Southern MCs' rapid turn to the right in the late 1930s, which set sharp limits on the scope of New Deal reform. This conservative reaction was driven less by incentives internal to Congress than by a broad-based reaction in the Southern White public. More generally, my findings suggest that Southern MCs were neither autonomous agents nor pliant tools of the economic elite, but rather electorally motivated politicians operating within a regime that mixed racist and authoritarian features with inclusive and democratic ones. The theoretical implications of these conclusions are broad in scope, not least because many regimes around the world have a similar hybrid character. The example of the one-party South suggests that public opinion can and does play an major role in such regimes, but in ways that may be heavily conditioned by institutional context. In particular, intraparty competition can be sufficient to incentivize responsiveness to constituent preferences, but only where non-party informational cues are available, as they were in congressional but not state-level Southern politics.
 </details>
@@ -37,7 +35,7 @@ These conclusions have major historical as well as theoretical implications. Fro
   
 ## Public Opinion and the New Deal ##
 
-["Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods"](files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf) (with Michael C. Dougal and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2020. *Journal of Politics* 82 (2): 494–508.
+["Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods"](/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf) (with Michael C. Dougal and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2020. *Journal of Politics* 82 (2): 494–508.
 
 <details>
 <summary> *Abstract* </summary>
@@ -45,7 +43,7 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
 </details>
 
 
-["Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945"](http://dx.doi.org/10.1017/S0898588X11000101) (with [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2011. *Studies in American Political Development* 25 (2): 1–28. [Online Appendix](/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx)
+["Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945"](http://dx.doi.org/10.1017/S0898588X11000101) (with [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2011. *Studies in American Political Development* 25 (2): 1–28. [Online Appendix](https://github.com/devincaughey/devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx)
 
 <details>
 <summary> *Abstract* </summary>
@@ -54,7 +52,9 @@ The seemingly wide opening for liberal domestic policy innovation by the U.S. fe
 
 ## State Politics ##
 
+### Monographs ###
 
+*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States* (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press
 
-## Articles ##
+### Articles ###
 
