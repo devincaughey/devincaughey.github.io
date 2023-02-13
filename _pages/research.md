@@ -20,7 +20,7 @@ My research comprises several overlapping streams, some substantive in focus and
 
 ## The One-Party South ##
 
-*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*. 2018. Princeton, NJ: Princeton University Press. [Publisher](https://press.princeton.edu/titles/13231.html) | [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | [Manuscript](https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf) | [Replication Data](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta) | [Replication Codebook](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf)
+[*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. [Publisher](https://press.princeton.edu/titles/13231.html) $\mid$ [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) $\mid$ [Replication Data](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta) $\mid$ [Replication Codebook](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf)
   
 <details>
 <summary> Abstract </summary>
