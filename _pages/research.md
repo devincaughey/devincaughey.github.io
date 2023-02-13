@@ -26,7 +26,7 @@ My research comprises several overlapping streams, some substantive in focus and
 
 ### Articles ###
 
-“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014” (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266.
+[“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”](https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266.
 
 ["The Ideological Nationalization of Partisan Subconstituencies in the American States"](https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf) (with James Dunham and [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *Public Choice* 176 (1–2): 133–151.
 
