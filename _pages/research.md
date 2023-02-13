@@ -30,13 +30,13 @@ My research comprises several overlapping streams, some substantive in focus and
 
 ["The Ideological Nationalization of Partisan Subconstituencies in the American States"](https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf) (with James Dunham and [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *Public Choice* 176 (1–2): 133–151.
 
-“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies” (with Chris Tausanovitch and [Christopher Warshaw](http://www.chriswarshaw.com)). 2017. *Election Law Journal* 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453– 469.
+[“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”](https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf) (with Chris Tausanovitch and [Christopher Warshaw](http://www.chriswarshaw.com)). 2017. *Election Law Journal* 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453– 469.
 
-“Incremental Democracy: The Policy Effects of Partisan Control of State Government” (with [Christopher Warshaw](http://www.chriswarshaw.com) and [Yiqing Xu](https://yiqingxu.org/)). 2017. *Journal of Politics* 79 (4): 1–17.
+[“Incremental Democracy: The Policy Effects of Partisan Control of State Government”](https://devincaughey.github.io/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com) and [Yiqing Xu](https://yiqingxu.org/)). 2017. *Journal of Politics* 79 (4): 1–17.
 
-"The Dynamics of State Policy Liberalism, 1936–2014" (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2016. *American Journal of Political Science* 60 (4): 899–913.
+["The Dynamics of State Policy Liberalism, 1936–2014"](https://devincaughey.github.io/files/caughey_warshaw_2016_dynamics_state_policy/caughey_warshaw_2016_dynamics_state_policy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2016. *American Journal of Political Science* 60 (4): 899–913.
 
-“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model” (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2025 Political Analysis 23 (2): 197–211.
+[“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”](https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2025 Political Analysis 23 (2): 197–211.
 
 ## The One-Party South ##
 
