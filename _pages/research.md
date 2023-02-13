@@ -35,7 +35,7 @@ These conclusions have major historical as well as theoretical implications. Fro
   
 ## Public Opinion and the New Deal ##
 
-["Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods"](/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf) (with Michael C. Dougal and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2020. *Journal of Politics* 82 (2): 494–508.
+["Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods"](https://devincaughey.github.io/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf) (with Michael C. Dougal and [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2020. *Journal of Politics* 82 (2): 494–508.
 
 <details>
 <summary> *Abstract* </summary>
@@ -43,7 +43,7 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
 </details>
 
 
-["Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945"](http://dx.doi.org/10.1017/S0898588X11000101) (with [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2011. *Studies in American Political Development* 25 (2): 1–28. [Online Appendix](https://github.com/devincaughey/devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx)
+["Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945"](https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal.pdf) (with [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)). 2011. *Studies in American Political Development* 25 (2): 1–28. [Online Appendix](https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx)
 
 <details>
 <summary> *Abstract* </summary>
