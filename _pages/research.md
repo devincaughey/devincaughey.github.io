@@ -54,7 +54,7 @@ The seemingly wide opening for liberal domestic policy innovation by the U.S. fe
 
 ### Monographs ###
 
-*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States* (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press
+[*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press
 
 ### Articles ###
 
