@@ -37,9 +37,8 @@ I have worked on several overlapping streams of research:
 
 <ul>
 <li><a href="https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.<ul>
-    <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Publisher</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
-    <li>
-      <details>
+<li>
+<details>
 <summary> Abstract </summary>
 <blockquote>
  Scholars of American politics have long been skeptical of ordinary citizens’ capacity to influence, let alone control, their governments. Drawing on over eight decades of state-level evidence on public opinion, elections, and policymaking, *Dynamic Democracy* poses a powerful challenge to this pessimistic view. It reveals that although American democracy cannot be taken for granted, state policymaking is far more responsive to citizens’ demands than skeptics claim. Although governments respond sluggishly in the short term, over the long term, electoral incentives induce state parties and politicians—and ultimately policymaking—to adapt to voters’ preferences. The authors take an empirical and theoretical approach that allows them to assess democracy as a dynamic process. Their evidence across states and over time gives them new leverage to assess relevant outcomes and trends, including the evolution of mass partisanship, mass ideology, and the relationship between partisanship and ideology since the mid-twentieth century; the nationalization of state-level politics; the mechanisms through which voters hold incumbents accountable; the performance of moderate candidates relative to extreme candidates; and the quality of state-level democracy today relative to state-level democracy in other periods.
@@ -50,9 +49,12 @@ I have worked on several overlapping streams of research:
 <summary> Excerpt from <a href="https://www.chronicle.com/article/the-best-scholarly-books-of-2022">&#8220;The Best Scholarly Books of 2022&#8221;</a> citation in <em>The Chronicle of Higher Education</em><br/>
 </summary>
 <blockquote>
-<p>"It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."</p>
+"It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."
 </blockquote>
 </details>
+<li> Press coverage in <a href="https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"><em>The Economist</em> </a> and <a href="https://www.nytimes.com/2022/09/07/opinion/democracy-states-america.html"><em>The New York Times</em>
+  </a>
+<li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Princeton University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
 </ul>
 </li>
 </ul>
