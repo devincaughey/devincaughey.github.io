@@ -77,11 +77,12 @@ I have worked on several overlapping streams of research:
 	  </li>
 	</ul>
   * [“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”](https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf) (with Chris Tausanovitch and [Christopher Warshaw](http://www.chriswarshaw.com)). 2017. *Election Law Journal* 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <http://dx.doi.org/10.1089/elj.2017.0452>. 
-<details>
+<ul>
+  <li><details>
 <summary>Abstract </summary>
 Recent scholarship has documented the advantages of a new measure of partisan gerrymandering: the difference in the parties' wasted votes, divided by the total number of votes cast. This measure, known as the efficiency gap (EG), can be calculated directly from aggregate vote totals, facilitating comparison of the severity of party gerrymandering across states and time. In this article, we conduct the first analysis of the EG's effects on legislative representation and policymaking in the states. We first show that the partisan outcome of legislative elections has important causal effects on the ideological representation of individual districts, the ideological composition of legislative chambers, and the conservatism of state policymaking. We then show that variation in the EG across state-years is associated with systematic differences in the ideological location of the median state legislator and in the conservatism of state policies. These results suggest that partisan gerrymandering has major consequences not only for who wins elections but for the political process as a whole.
 </details>
-<br>
+</ul>
   * [“Incremental Democracy: The Policy Effects of Partisan Control of State Government”](https://devincaughey.github.io/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com) and [Yiqing Xu](https://yiqingxu.org/)). 2017. *Journal of Politics* 79 (4): 1–17. <http://dx.doi.org/10.1086/692669>.
 <br>
 <details>
