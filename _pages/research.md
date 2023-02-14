@@ -38,13 +38,15 @@ My research comprises several overlapping streams, some [substantive](#substanti
 <p> Although governments respond sluggishly in the short term, over the long term, electoral incentives induce state parties and politicians—and ultimately policymaking—to adapt to voters’ preferences. The authors take an empirical and theoretical approach that allows them to assess democracy as a dynamic process. Their evidence across states and over time gives them new leverage to assess relevant outcomes and trends, including the evolution of mass partisanship, mass ideology, and the relationship between partisanship and ideology since the mid-twentieth century; the nationalization of state-level politics; the mechanisms through which voters hold incumbents accountable; the performance of moderate candidates relative to extreme candidates; and the quality of state-level democracy today relative to state-level democracy in other periods. </p>
 </details>
 
-<details>
-<summary> Excerpt from [*Chronicle of Higher Education*'s "Best Scholarly Books of 2022"](https://www.chronicle.com/article/the-best-scholarly-books-of-2022)
-</summary>
+<p><details>
+<summary> Excerpt from <a href="https://www.chronicle.com/article/the-best-scholarly-books-of-2022"><em>Chronicle of Higher Education</em>&#8217;s &#8220;Best Scholarly Books of 2022&#8221;</a><br/>
+</summary></p>
 
-> It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents...*Dynamic Democracy* presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy.
+<blockquote>
+<p>It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy.</p>
+</blockquote>
 
-</details>
+<p></details></p>
 
 #### Articles ####
 
