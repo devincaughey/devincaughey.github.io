@@ -107,6 +107,7 @@ How much does it matter whether Democrats or Republicans control the government?
 	    <summary>Abstract </summary>
 Applying a dynamic latent-variable model to data on 148 policies collected over eight decades (1936–2014), we produce the first yearly measure of the policy liberalism of U.S. states. Our dynamic measure of state policy liberalism marks an important advance over existing measures, almost all of which are purely cross-sectional and thus cannot be used to study policy change. We find that, in the aggregate, the policy liberalism of U.S. states steadily increased between the 1930s and 1970s and then largely plateaued. The policy liberalism of most states has remained stable in relative terms, though several states have shifted considerably over time. We also find surprisingly little evidence of multidimensionality in state policy outputs. Our new estimates of state policy liberalism have broad application to the study of political development, representation, accountability, and other important issues in political science.
 	  </details>
+	</li>
       </ul>
   </li>
 </ul>
