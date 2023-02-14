@@ -42,7 +42,7 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
 #### Book ####
 
 <ul>
-  <li><a href="https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.<ul>
+  <li><a href="/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.<ul>
       <li>
         <details>
           <summary> Abstract </summary>
@@ -60,6 +60,8 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
       </li>
       <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Chicago University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
       </li>
+      <li>
+	Download <a href="https://www.dropbox.com/t/MRDUHsLpFAzNBDhu">updated estimates of state policy and mass ideology 1936--2020</a>
     </ul>
   </li>
 </ul>
@@ -349,6 +351,6 @@ Authority" (with Sara Chatfield)
 
 ## Dormant projects ##
 
-  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](https://devincaughey.github.io/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
   * ["Target Selection as Variable Selection: Using the Lasso to Select Auxiliary Vectors
 for the Construction of Survey Weights"](https://devincaughey.github.io/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
+  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](https://devincaughey.github.io/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
