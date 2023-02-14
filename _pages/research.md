@@ -31,7 +31,7 @@ I have worked on several overlapping streams of research:
 
 ## Substantive research ##
 
-### U.S. state politics ###
+### State politics ###
 
 #### Book ####
 
