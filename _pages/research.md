@@ -91,11 +91,13 @@ Recent scholarship has documented the advantages of a new measure of partisan ge
 	</li>
       </ul>
   </li>
-  <li> [“Incremental Democracy: The Policy Effects of Partisan Control of State Government”](https://devincaughey.github.io/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com) and [Yiqing Xu](https://yiqingxu.org/)). 2017. *Journal of Politics* 79 (4): 1–17. <http://dx.doi.org/10.1086/692669>.
-      <ul>
-	<li>
-	  <details>
-	    <summary>Abstract </summary>
+  <li>
+    <a href="https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf">“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>American Political Science Review</em> 112 (2): 249–266. <a href="http://dx.doi.org/10.1017/S0003055417000533">http://dx.doi.org/10.1017/S0003055417000533</a>.
+    <br/>
+    <ul>
+      <li>
+	<details>
+	  <summary>Abstract </summary>
 How much does it matter whether Democrats or Republicans control the government? Unless the two parties converge completely, election outcomes should have some impact on policy, but the existing evidence for policy effects of party control is surprisingly weak and inconsistent. We bring clarity to this question, using regression-discontinuity and dynamic panel analyses to estimate the effects of party control of state legislatures and governorships on a new annual measure of state policy liberalism. We find that throughout the 1936–2014 period, electing Democrats has led to more liberal policies, but that in recent decades the policy effects of party control have approximately doubled in magnitude. We present evidence that this increase is at least partially explained by the ideological divergence of the parties’ office holders and electoral coalitions. At the same time, we also show that party effects remain substantively modest, paling relative to policy differences across states.
 	  </details>
 	</li>
