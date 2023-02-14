@@ -28,6 +28,7 @@ I have worked on several overlapping streams of research:
   * [**Methodological**](#methodological-research)
       * [Bayesian measurement](#bayesian-measurement)
       * [Survey weighting](#survey-weighting)
+      * [Survey experiments](#survey-experiments)
       * [Permutation inference](#permutation-inference)
       * [Regression-discontinuity designs](#regression-discontinuity-designs)
 
@@ -223,8 +224,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	<a href="https://doi.org/10.7910/DVN/YPMVMH">Replication archive</a>
       </li>
       <li>
-	<a href="https://github.com/devincaughey/estsubpop">R package (<strong>estsubpop</strong>
-	  )</a>
+	<a href="https://github.com/devincaughey/estsubpop">R package (<strong>estsubpop</strong>)</a>
       </li>
     </ul>
   </li>
@@ -264,7 +264,15 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 ### Survey Weighting ###
 
-*Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias* (with Adam J. Berinsky, Sara Chatfield, Erin Hartman, Eric Schickler, and Jasjeet J. Sekhon). 2020. Elements in Quantitative and Computational Methods for the Social Sciences. Cambridge, UK: Cambridge University Press. 112 pages.
+<ul>
+  <li>
+    <a href="https://devincaughey.github.io/files/caughey_et_al_2020_target_estimation/caughey_et_al_2020_target_estimation.pdf"><em>Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias</em></a> (with Adam J. Berinsky, Sara Chatfield, Erin Hartman, Eric Schickler, and Jasjeet J. Sekhon). 2020. Elements in Quantitative and Computational Methods for the Social Sciences. Cambridge, UK: Cambridge University Press. <a href="https://doi.org/10.1017/9781108879217">https://doi.org/10.1017/9781108879217</a>. 112 pages.
+  </li>
+</ul>
+
+### Survey Experiments ###
+
+“Information Equivalence in Survey Experiments” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
 
 ### Permutation Inference ###
 
@@ -272,9 +280,6 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 “A Rank-based Permutation Test for Equivalence and Non-inferiority” (with Rosa Arboretti and Eleonora Carrozzo). 2015 *Italian Journal of Applied Statistics* 25 (1): 81–92.
 
-### Survey Experiments ###
-
-“Information Equivalence in Survey Experiments” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
 
 ### Regression-Discontinuity Designs ###
 
