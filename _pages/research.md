@@ -16,8 +16,9 @@ author_profile: true
 {% endfor %}
 
 
-I have worked on several overlapping streams of research:
+My research focuses on American politics (often from an historical angle) and political methodology, though I have also made forays into comparative politics and international relations.
 
+My work can be roughly categorized as follows:
 
   * [**Substantive**](#substantive-research)
       * [U.S. state politics](#state-politics)
