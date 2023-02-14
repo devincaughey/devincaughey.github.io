@@ -274,6 +274,10 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li><a href="https://devincaughey.github.io/files/dafoe_et_al_2018_information_equivalence/dafoe_et_al_2018_information_equivalence.pdf">"Information Equivalence in Survey Experiments"</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://baobaofzhang.github.io">Baobao Zhang</a>). 2018. <em>Political Analysis</em> 26 (4): 399–416. <a href="http://dx.doi.org/10.1017/pan.2018.9">http://dx.doi.org/10.1017/pan.2018.9</a>
+    <ul>
+      <li> <a href="https://doi.org/10.7910/DVN/KVZXE8">Replication archive</a>
+      </li>
+	</ul>
   </li>
 </ul>
 
