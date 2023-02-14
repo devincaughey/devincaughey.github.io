@@ -112,18 +112,27 @@ Applying a dynamic latent-variable model to data on 148 policies collected over 
   </li>
 </ul>
 
-### The One-Party South ###
+### The one-party South ###
 
-
-  * [*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. 240 pages.
-  <br>
-  [Publisher](https://press.princeton.edu/titles/13231.html) $\mid$ [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) $\mid$ [Replication Data](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta) $\mid$ [Replication Codebook](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf) 
-  <details>
-<summary> Abstract </summary>
+<ul>
+  <li>
+    <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf"><em>The Unsolid South: Mass Politics and National Representation in a One-Party Enclave</em></a>. 2018. Princeton, NJ: Princeton University Press. 240 pages.
+    <ul>
+      <li>
+	<details>
+	  <summary> Abstract </summary>
 This book examines congressional representation in the Jim Crow South in the decades following the New Deal. Marshaling a combination of qualitative and qualitative evidence, I dispute the conventional wisdom that lack of partisan competition destroyed the electoral connection between Southern members of Congress (MCs) and their constituents. I show that although Black Southerners were almost totally disenfranchised, the class-biased exclusion of White Southerners (through devices such as the poll tax) was both less extensive and, given sufficient motivation and mobilization, more easily overcome. Furthermore, while the South did lack partisan competition, the so-called White primary offered meaningful opportunities for electoral competition within the one-party system. The consequence, I argue, was that Southern MCs' responsiveness to their enfranchised (i.e., White) constituents was not noticeably weaker than their non-Southern counterparts.<br><br>These conclusions have major historical as well as theoretical implications. From the standpoint of historical interpretation, they provide an alternative explanation for Southern MCs' rapid turn to the right in the late 1930s, which set sharp limits on the scope of New Deal reform. This conservative reaction was driven less by incentives internal to Congress than by a broad-based reaction in the Southern White public. More generally, my findings suggest that Southern MCs were neither autonomous agents nor pliant tools of the economic elite, but rather electorally motivated politicians operating within a regime that mixed racist and authoritarian features with inclusive and democratic ones. The theoretical implications of these conclusions are broad in scope, not least because many regimes around the world have a similar hybrid character. The example of the one-party South suggests that public opinion can and does play an major role in such regimes, but in ways that may be heavily conditioned by institutional context. In particular, intraparty competition can be sufficient to incentivize responsiveness to constituent preferences, but only where non-party informational cues are available, as they were in congressional but not state-level Southern politics.
-</details>
-
-
+	</details>
+      </li>
+      <li>
+	Replication <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta">data</a> and <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf">codebook</a>
+      </li>	
+      <li>
+	Buy from <a href="https://press.princeton.edu/titles/13231.html">Princeton Univeristy Press</a> or <a href="https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=">Amazon</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 ### The New Deal ###
 
