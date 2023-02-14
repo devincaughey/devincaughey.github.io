@@ -27,7 +27,7 @@ My research comprises several overlapping streams, some [substantive](#substanti
 #### Book ####
 
 
-  * [*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press. 248 pages.
+  * <a href="https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.
 <br>
 [Publisher](https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html) $\mid$ [Amazon](https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222) $\mid$
 [*The Economist*](https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs) $\mid$
