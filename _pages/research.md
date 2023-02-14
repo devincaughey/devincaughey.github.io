@@ -319,29 +319,23 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    Devin Caughey. 2022a. Review of *A Troubled Birth: The 1930s and American Public Opinion*, by Susan Herbst. *Perspectives on Politics* 20 (3): 1102–1104. <https://doi.org/10.1017/S1537592722001724>.
+    Review of <em>A Troubled Birth: The 1930s and American Public Opinion</em>, by Susan Herbst. 2022. <em>Perspectives on Politics</em> 20 (3): 1102–1104. <a href="https://doi.org/10.1017/S1537592722001724">https://doi.org/10.1017/S1537592722001724</a>.
   </li>
-
   <li>
-    Devin Caughey. 2022b. Review of *How the Tea Party Captured the GOP: Insurgent Factions in American Politics*, by Rachel M. Blum. *Party Politics* 28 (3): 587–588. <https://doi.org/10.1177/13540688221081896>.
+    Review of <em>How the Tea Party Captured the GOP: Insurgent Factions in American Politics</em>, by Rachel M. Blum. 2022. <em>Party Politics</em> 28 (3): 587–588. <a href="https://doi.org/10.1177/13540688221081896">https://doi.org/10.1177/13540688221081896</a>.
   </li>
-
   <li>
-    Devin Caughey and Eric Schickler. 2021. “The Democratic-CIO Alliance: The Benefits of Friendship.” *Labor: Studies in Working-Class History* 18 (3): 120–125. <https://doi.org/10.1215/15476715-9061521>.
+    “The Democratic-CIO Alliance: The Benefits of Friendship” (with Eric Schickler). 2021 <em>Labor: Studies in Working-Class History</em> 18 (3): 120–125. <a href="https://doi.org/10.1215/15476715-9061521">https://doi.org/10.1215/15476715-9061521</a>.
   </li>
-
   <li>
-    Devin Caughey and Sara Chatfield. 2020. “Causal Inference and American Political Development: Contrasts and Complementarities.” *Public Choice* 185:359–376. <https://doi.org/10.1007/s11127-019-00694-4>.
+   “Causal Inference and American Political Development: Contrasts and Complementarities” (with Sara Chatfield). 2020. <em>Public Choice</em> 185:359–376. <a href="https://doi.org/10.1007/s11127-019-00694-4">https://doi.org/10.1007/s11127-019-00694-4</a>.
   </li>
-
   <li>
-    Devin Caughey and Christopher Warshaw. 2019. “Public Opinion in Subnational Politics.” *Journal of Politics* 81, no. 1 (Symposium on Subnational Policymaking): 352–363. <https://doi.org/10.1086/700723>.
+   “Public Opinion in Subnational Politics” (with Christopher Warshaw). 2019. <em>Journal of Politics</em> 81, no. 1 (Symposium on Subnational Policymaking): 352–363. <a href="https://doi.org/10.1086/700723">https://doi.org/10.1086/700723</a>.
   </li>
-
   <li>
-    Devin Caughey and Eric Schickler. 2017. “Keith Poole, Ideology Scores, and the Study of Congressional Development.” *The Legislative Scholar: The Newsletter of the Legislative Studies Section of the American Political Science Association* 2 (2): 37–42.
+    “Keith Poole, Ideology Scores, and the Study of Congressional Development” (with Eric Schickler). 2017. <em>The Legislative Scholar: The Newsletter of the Legislative Studies Section of the American Political Science Association</em> 2 (2): 37–42.
   </li>
-
 </ul>
 
 ## Working papers ##
