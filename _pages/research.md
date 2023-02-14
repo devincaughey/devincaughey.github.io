@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %}
 
 
-My research comprises several overlapping streams, some [substantive](#substantive-research) in focus (U.S. state politics, the one-party South, the New Deal) and others [methodological](#methodological-research) (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
+My research comprises several overlapping streams, some [substantive](#substantive-research) in focus ([U.S. state politics](#state-politics), [the one-party South](#the-one-party-south), [the New Deal](#the-new-deal)) and others [methodological](#methodological-research) (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
+
+
 
 ## Substantive Research ##
 
@@ -24,9 +26,27 @@ My research comprises several overlapping streams, some [substantive](#substanti
 
 #### Book ####
 
-[*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press
+[*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press. 248 pages. <br>
+[Publisher](https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html) $\mid$
+[Amazon](https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222) $\mid$
+[*The Economist*](https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs) $\mid$
+[*New York Times*](https://www.nytimes.com/2022/09/07/opinion/democracy-states-america.html)
+<details>
+<summary> Abstract </summary>
+<p> Scholars of American politics have long been skeptical of ordinary citizens’ capacity to influence, let alone control, their governments. Drawing on over eight decades of state-level evidence on public opinion, elections, and policymaking, *Dynamic Democracy* poses a powerful challenge to this pessimistic view. It reveals that although American democracy cannot be taken for granted, state policymaking is far more responsive to citizens’ demands than skeptics claim.</p>
+ 
+<p> Although governments respond sluggishly in the short term, over the long term, electoral incentives induce state parties and politicians—and ultimately policymaking—to adapt to voters’ preferences. The authors take an empirical and theoretical approach that allows them to assess democracy as a dynamic process. Their evidence across states and over time gives them new leverage to assess relevant outcomes and trends, including the evolution of mass partisanship, mass ideology, and the relationship between partisanship and ideology since the mid-twentieth century; the nationalization of state-level politics; the mechanisms through which voters hold incumbents accountable; the performance of moderate candidates relative to extreme candidates; and the quality of state-level democracy today relative to state-level democracy in other periods. </p>
+</details>
 
-#### Papers ####
+<details>
+<summary> Excerpt from [*Chronicle of Higher Education*'s "Best Scholarly Books of 2022"](https://www.chronicle.com/article/the-best-scholarly-books-of-2022)
+</summary>
+
+> It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents...*Dynamic Democracy* presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy.
+
+</details>
+
+#### Articles ####
 
 [“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”](https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266.
 
@@ -40,7 +60,7 @@ My research comprises several overlapping streams, some [substantive](#substanti
 
 ### The One-Party South ###
 
-[*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. [Publisher](https://press.princeton.edu/titles/13231.html) $\mid$ [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) $\mid$ [Replication Data](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta) $\mid$ [Replication Codebook](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf)
+[*The Unsolid South: Mass Politics and National Representation in a One-Party Enclave*](https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf). 2018. Princeton, NJ: Princeton University Press. 240 pages. [Publisher](https://press.princeton.edu/titles/13231.html) $\mid$ [Amazon](https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) $\mid$ [Replication Data](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta) $\mid$ [Replication Codebook](https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf)
   
 <details>
 <summary> Abstract </summary>
@@ -66,9 +86,42 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
 The seemingly wide opening for liberal domestic policy innovation by the U.S. federal government in the early-to-mid-1930s gave way to a much more limited agenda in the late 1930s and 1940s. The latter years saw the consolidation and gradual extension of several key programs (e.g., Social Security and Keynesian macroeconomic management), but also the frustration of liberal hopes for an expansive “cradle-to-grave” welfare state marked by strong national unions, national health insurance, and full employment policies. Drawing upon rarely used early public opinion polls, we explore the dynamics of public opinion regarding New Deal liberalism during this pivotal era. We argue that a broadly based reaction against labor unions created a difficult backdrop for liberal programmatic advances. We find that this anti-labor reaction was especially virulent in the South but divided even Northern Democrats, thus creating an effective wedge issue for Republicans and their Southern conservative allies. More generally, we find that the mass public favored most of the specific programs created by the New Deal, but was hardly clamoring for major expansions of the national government's role in the late 1930s and 1940s. These findings illuminate the role played by the South in constraining New Deal liberalism while also highlighting the tenuousness of the liberal majority in the North.
 </details>
 
+### Comparative Public Opinion ###
+
+“Policy Ideology in European Mass Publics, 1981–2016” (with Tom O'Grady and Christopher Warshaw). 2019. *American Political Science Review* 113 (3): 674–693.
+
+### Reputation and International Conflict ###
+
+[“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”](https://devincaughey.github.io/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf) (with Allan Dafoe). 2016. *World Politics* 68 (2): 341–381.
+
 ## Methodological Research ##
 
 ### Bayesian Measurement ###
 
+“Dynamic Ecological Inference for Time-Varying Population Distributions Based on Sparse, Irregular, and Noisy Marginal Data” (with Mallory Wang). 2019. *Political Analysis* 27 (3): 388–396.
+
+[“Substance and Change in Congressional Ideology: NOMINATE and Its Alternatives”](https://devincaughey.github.io/files/caughey_schickler_2016_nominate/caughey_schickler_2016_nominate.pdf) (with Eric Schickler). 2016. *Studies in American Political Development* 30 (October): 1–19.
+
 [“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”](https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2015 *Political Analysis* 23 (2): 197–211.
+
+### Survey Weighting ###
+
+*Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias* (with Adam J. Berinsky, Sara Chatfield, Erin Hartman, Eric Schickler, and Jasjeet J. Sekhon). 2020. Elements in Quantitative and Computational Methods for the Social Sciences. Cambridge, UK: Cambridge University Press. 112 pages.
+
+### Permutation Inference ###
+
+“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with Allan Dafoe and Jason Seawright). 2017. *Journal of Politics* 79 (2): 688–701.
+
+“A Rank-based Permutation Test for Equivalence and Non-inferiority” (with Rosa Arboretti and Eleonora Carrozzo). 2015 *Italian Journal of Applied Statistics* 25 (1): 81–92.
+
+### Survey Experiments ###
+
+“Information Equivalence in Survey Experiments” (with Allan Dafoe and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
+
+### Regression-Discontinuity Designs ###
+
+[“Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Races, 1942–2008”](https://devincaughey.github.io/files/caughey_sekhon_2011_election_rd/caughey_sekhon_2011_election_rd.pdf) (with Jasjeet S. Sekhon). 2011. *Political Analysis* 19 (4): 385–408
+
+  * Winner of the Warren Miller Prize and the *Political Analysis* Editors' Choice Award
+  * Reprinted in Robert J. Franzese, ed. 2015. *Quantitative Research in Political Science*. SAGE
 
