@@ -138,7 +138,7 @@ This book examines congressional representation in the Jim Crow South in the dec
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf">&#8220;Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods&#8221;</a> (with Michael C. Dougal and <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2020. <em>Journal of Politics</em> 82 (2): 494–508. <a href="https://doi.org/10.1086/707305"></a>
+    <a href="https://devincaughey.github.io/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf">&#8220;Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods&#8221;</a> (with Michael C. Dougal and <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2020. <em>Journal of Politics</em> 82 (2): 494–508. <a href="https://doi.org/10.1086/707305">https://doi.org/10.1086/707305</a>
     <ul>
       <li>
 	<details>
@@ -152,7 +152,7 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
       </li>
     </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal.pdf">&#8220;Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945&#8221;</a> (with <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2011. <em>Studies in American Political Development</em> 25 (2): 1–28. <a href="http://dx.doi.org/10.1017/S0898588X11000101"></a>
+  <li> <a href="https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal.pdf">&#8220;Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945&#8221;</a> (with <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2011. <em>Studies in American Political Development</em> 25 (2): 1–28. <a href="http://dx.doi.org/10.1017/S0898588X11000101">http://dx.doi.org/10.1017/S0898588X11000101</a>
     <ul>
       <li>
 	<details>
