@@ -181,10 +181,13 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
     </ul>
   </li>
 </ul>
+
 ### Reputation and International Conflict ###
 
-[“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”](https://devincaughey.github.io/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf) (with Allan Dafoe). 2016. *World Politics* 68 (2): 341–381.
-
+<ul>
+  <li><a href="https://devincaughey.github.io/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf">“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>). 2016. <em>World Politics</em> 68 (2): 341–381.
+  </li>
+</ul>
 ## Methodological Research ##
 
 ### Bayesian Measurement ###
@@ -201,13 +204,13 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
 
 ### Permutation Inference ###
 
-“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with Allan Dafoe and Jason Seawright). 2017. *Journal of Politics* 79 (2): 688–701.
+“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Jason Seawright). 2017. *Journal of Politics* 79 (2): 688–701.
 
 “A Rank-based Permutation Test for Equivalence and Non-inferiority” (with Rosa Arboretti and Eleonora Carrozzo). 2015 *Italian Journal of Applied Statistics* 25 (1): 81–92.
 
 ### Survey Experiments ###
 
-“Information Equivalence in Survey Experiments” (with Allan Dafoe and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
+“Information Equivalence in Survey Experiments” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
 
 ### Regression-Discontinuity Designs ###
 
