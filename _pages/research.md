@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-My research comprises several overlapping streams, some substantive in focus (U.S. state politics, the one-party South, the New Deal) and others methodological (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
+My research comprises several overlapping streams, some [substantive](#/research/substantive-research) in focus (U.S. state politics, the one-party South, the New Deal) and others [methodological](#methodological-research) (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
 
 ## Substantive Research ##
 
@@ -26,7 +26,7 @@ My research comprises several overlapping streams, some substantive in focus (U.
 
 [*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press
 
-#### Articles ####
+#### Papers ####
 
 [“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”](https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266.
 
