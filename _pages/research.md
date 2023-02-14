@@ -23,6 +23,8 @@ I have worked on several overlapping streams of research:
       * [U.S. state politics](#state-politics)
       * [Southern politics](#southern-politics)
       * [The New Deal](#the-new-deal)
+      * [Comparative public opinion](#comparative-public-opinion)
+      * [Reputation and international conflict](#reputation-and-international-conflict)
   * [**Methodological**](#methodological-research)
       * Bayesian measurement
       * survey weighting
