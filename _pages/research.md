@@ -157,7 +157,7 @@ Recent research has challenged the policy bases of the New Deal realignment, arg
       <li>
 	<details>
 	  <summary> Abstract </summary>
-The seemingly wide opening for liberal domestic policy innovation by the U.S. federal government in the early-to-mid-1930s gave way to a much more limited agenda in the late 1930s and 1940s. The latter years saw the consolidation and gradual extension of several key programs (e.g., Social Security and Keynesian macroeconomic management), but also the frustration of liberal hopes for an expansive “cradle-to-grave” welfare state marked by strong national unions, national health insurance, and full employment policies. Drawing upon rarely used early public opinion polls, we explore the dynamics of public opinion regarding New Deal liberalism during this pivotal era. We argue that a broadly based reaction against labor unions created a difficult backdrop for liberal programmatic advances. We find that this anti-labor reaction was especially virulent in the South but divided even Northern Democrats, thus creating an effective wedge issue for Republicans and their Southern conservative allies. More generally, we find that the mass public favored most of the specific programs created by the New Deal, but was hardly clamoring for major expansions of the national government's role in the late 1930s and 1940s. These findings illuminate the role played by the South in constraining New Deal liberalism while also highlighting the tenuousness of the liberal majority in the North.
+	  The seemingly wide opening for liberal domestic policy innovation by the U.S. federal government in the early-to-mid-1930s gave way to a much more limited agenda in the late 1930s and 1940s. The latter years saw the consolidation and gradual extension of several key programs (e.g., Social Security and Keynesian macroeconomic management), but also the frustration of liberal hopes for an expansive “cradle-to-grave” welfare state marked by strong national unions, national health insurance, and full employment policies. Drawing upon rarely used early public opinion polls, we explore the dynamics of public opinion regarding New Deal liberalism during this pivotal era. We argue that a broadly based reaction against labor unions created a difficult backdrop for liberal programmatic advances. We find that this anti-labor reaction was especially virulent in the South but divided even Northern Democrats, thus creating an effective wedge issue for Republicans and their Southern conservative allies. More generally, we find that the mass public favored most of the specific programs created by the New Deal, but was hardly clamoring for major expansions of the national government's role in the late 1930s and 1940s. These findings illuminate the role played by the South in constraining New Deal liberalism while also highlighting the tenuousness of the liberal majority in the North.
 	</details>
       </li>
       <li>
@@ -169,8 +169,18 @@ The seemingly wide opening for liberal domestic policy innovation by the U.S. fe
 
 ### Comparative Public Opinion ###
 
-“Policy Ideology in European Mass Publics, 1981–2016” (with Tom O'Grady and Christopher Warshaw). 2019. *American Political Science Review* 113 (3): 674–693.
-
+<ul>
+  <li><a href="https://devincaughey.github.io/files/caughey_et_al_2019_ideology_european_publics/caughey_et_al_2019_ideology_european_publics.pdf">“Policy Ideology in European Mass Publics, 1981–2016”</a> (with <a href="https://tomogradypolitics.wordpress.com">Tom O'Grady</a> and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2019. <em>American Political Science Review</em> 113 (3): 674–693. <a href="https://doi.org/10.1017/S0003055419000157">https://doi.org/10.1017/S0003055419000157</a>.
+    <ul>
+      <li>
+	<details>
+	  <summary> Abstract </summary>
+	  Using new scaling methods and a comprehensive public opinion dataset, we develop the first survey-based time-series–cross-sectional measures of policy ideology in European mass publics. Our dataset covers 27 countries and 36 years and contains nearly 2.7 million survey responses to 109 unique issue questions. Estimating an ordinal group-level IRT model in each of four issue domains, we obtain biennial estimates of the absolute economic conservatism, relative economic conservatism, social conservatism, and immigration conservatism of men and women in three age categories in each country. Aggregating the group-level estimates yields estimates of the average conservatism in national publics in each biennium between 1981–82 and 2015–16. The four measures exhibit contrasting cross-sectional cleavages and distinct temporal dynamics, illustrating the multidimensionality of mass ideology in Europe. Subjecting our measures to a series of validation tests, we show that the constructs they measure are distinct and substantively important and that they perform as well as or better than one-dimensional proxies for mass conservatism (left–right self-placement and median voter scores). We foresee many uses for these scores by scholars of public opinion, electoral behavior, representation, and policy feedback.
+	</details>
+      </li>
+    </ul>
+  </li>
+</ul>
 ### Reputation and International Conflict ###
 
 [“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”](https://devincaughey.github.io/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf) (with Allan Dafoe). 2016. *World Politics* 68 (2): 341–381.
