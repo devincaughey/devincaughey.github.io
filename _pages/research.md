@@ -62,7 +62,7 @@ I have worked on several overlapping streams of research:
 
 <ul>
   <li>
-    [“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”](https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266. <http://dx.doi.org/10.1017/S0003055417000533>.
+   <a href="https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf">“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>American Political Science Review</em> 112 (2): 249–266. <a href="http://dx.doi.org/10.1017/S0003055417000533">http://dx.doi.org/10.1017/S0003055417000533</a>.
       <ul>
 	<li><details>
 	    <summary> Abstract </summary>
@@ -71,7 +71,7 @@ Using eight decades of data, we examine the magnitude, mechanisms, and moderator
 	</li>
       </ul>
   </li>
-  <li> ["The Ideological Nationalization of Partisan Subconstituencies in the American States"](https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf) (with James Dunham and [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *Public Choice* 176 (1–2): 133–151. <http://dx.doi.org/10.1007/s11127-018-0543-3>.
+  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf">&#8220;The Ideological Nationalization of Partisan Subconstituencies in the American States&#8221;</a> (with James Dunham and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>Public Choice</em> 176 (1–2): 133–151. <a href="http://dx.doi.org/10.1007/s11127-018-0543-3">http://dx.doi.org/10.1007/s11127-018-0543-3</a>.
       <ul>
 	<li>
 	  <details>
@@ -81,7 +81,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	</li>
       </ul>
   </li>
-  <li> [“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”](https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf) (with Chris Tausanovitch and [Christopher Warshaw](http://www.chriswarshaw.com)). 2017. *Election Law Journal* 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <http://dx.doi.org/10.1089/elj.2017.0452>. 
+  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf">“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”</a> (with Chris Tausanovitch and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2017. <em>Election Law Journal</em> 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <a href="http://dx.doi.org/10.1089/elj.2017.0452">http://dx.doi.org/10.1089/elj.2017.0452</a>. 
       <ul>
 	<li>
 	  <details>
@@ -91,19 +91,17 @@ Recent scholarship has documented the advantages of a new measure of partisan ge
 	</li>
       </ul>
   </li>
-  <li>
-    <a href="https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf">“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>American Political Science Review</em> 112 (2): 249–266. <a href="http://dx.doi.org/10.1017/S0003055417000533">http://dx.doi.org/10.1017/S0003055417000533</a>.
-    <br/>
-    <ul>
-      <li>
-	<details>
-	  <summary>Abstract </summary>
+  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf">“Incremental Democracy: The Policy Effects of Partisan Control of State Government”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a> and <a href="https://yiqingxu.org/">Yiqing Xu</a>). 2017. <em>Journal of Politics</em> 79 (4): 1–17. <a href="http://dx.doi.org/10.1086/692669">http://dx.doi.org/10.1086/692669</a>.
+      <ul>
+	<li>
+	  <details>
+	    <summary>Abstract </summary>
 How much does it matter whether Democrats or Republicans control the government? Unless the two parties converge completely, election outcomes should have some impact on policy, but the existing evidence for policy effects of party control is surprisingly weak and inconsistent. We bring clarity to this question, using regression-discontinuity and dynamic panel analyses to estimate the effects of party control of state legislatures and governorships on a new annual measure of state policy liberalism. We find that throughout the 1936–2014 period, electing Democrats has led to more liberal policies, but that in recent decades the policy effects of party control have approximately doubled in magnitude. We present evidence that this increase is at least partially explained by the ideological divergence of the parties’ office holders and electoral coalitions. At the same time, we also show that party effects remain substantively modest, paling relative to policy differences across states.
 	  </details>
 	</li>
       </ul>
   </li>
-  <li> ["The Dynamics of State Policy Liberalism, 1936–2014"](https://devincaughey.github.io/files/caughey_warshaw_2016_dynamics_state_policy/caughey_warshaw_2016_dynamics_state_policy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2016. *American Journal of Political Science* 60 (4): 899–913. <http://dx.doi.org/10.1111/ajps.12219>.
+  <li> <a href="https://devincaughey.github.io/files/caughey_warshaw_2016_dynamics_state_policy/caughey_warshaw_2016_dynamics_state_policy.pdf">&#8220;The Dynamics of State Policy Liberalism, 1936–2014&#8221;</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2016. <em>American Journal of Political Science</em> 60 (4): 899–913. <a href="http://dx.doi.org/10.1111/ajps.12219">http://dx.doi.org/10.1111/ajps.12219</a>.
       <ul>
 	<li><details>
 	    <summary>Abstract </summary>
