@@ -209,11 +209,47 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 ### Bayesian Measurement ###
 
-“Dynamic Ecological Inference for Time-Varying Population Distributions Based on Sparse, Irregular, and Noisy Marginal Data” (with Mallory Wang). 2019. *Political Analysis* 27 (3): 388–396.
 
-[“Substance and Change in Congressional Ideology: NOMINATE and Its Alternatives”](https://devincaughey.github.io/files/caughey_schickler_2016_nominate/caughey_schickler_2016_nominate.pdf) (with Eric Schickler). 2016. *Studies in American Political Development* 30 (October): 1–19.
+<ul>
+  <li><a href="https://devincaughey.github.io/files/caughey_wang_2019_dynamic_ei/caughey_wang_2019_dynamic_ei.pdf">“Dynamic Ecological Inference for Time-Varying Population Distributions Based on Sparse, Irregular, and Noisy Marginal Data”</a> (with Mallory Wang). 2019. <em>Political Analysis</em> 27 (3): 388–396. <a href="https://doi.org/10.1017/pan.2019.4">https://doi.org/10.1017/pan.2019.4</a>
+    <ul>
+      <li>
+	<details>
+	  <summary>Abstract</summary>
+	  Social scientists are frequently interested in how populations evolve over time. Creating poststratification weights for surveys, for example, requires information on the weighting variables’ joint distribution in the target population. Typically, however, population data are sparsely available across time periods. Even when population data are observed, the content and structure of the data—which variables are observed and whether their marginal or joint distributions are known—differ across time, in ways that preclude straightforward interpolation. As a consequence, survey weights are often based only on the small subset of auxiliary variables whose joint population distribution is observed regularly over time, and thus fail to take full advantage of auxiliary information. To address this problem, we develop a dynamic Bayesian ecological inference model for estimating multivariate categorical distributions from sparse, irregular, and noisy data on their marginal (or partially joint) distributions. Our approach combines (1) a Dirichlet sampling model for the observed margins conditional on the unobserved cell proportions; (2) a set of equations encoding the logical relationships among different population quantities; and (3) a Dirichlet transition model for the period-specific proportions that pools information across time periods. We illustrate this method by estimating annual U.S. phone-ownership rates by race and region based on population data irregularly available between 1930 and 1960. This approach may be useful in a wide variety of contexts where scholars wish to make dynamic ecological inferences about interior cells from marginal data. A new R package estsubpop implements the method.
+	</details>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-[“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”](https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2015 *Political Analysis* 23 (2): 197–211.
+<ul>
+  <li>
+    <a href="https://devincaughey.github.io/files/caughey_schickler_2016_nominate/caughey_schickler_2016_nominate.pdf">“Substance and Change in Congressional Ideology: NOMINATE and Its Alternatives”</a> (with Eric Schickler). 2016. <em>Studies in American Political Development</em> 30 (October): 1–19. <a href="http://dx.doi.org/10.1017/S0898588X16000092">http://dx.doi.org/10.1017/S0898588X16000092</a>
+    <ul>
+      <li>
+	<details>
+	  <summary>Abstract</summary>
+	  Poole and Rosenthal's NOMINATE scores have been a boon to the study of Congress, but they are not without limitations. We focus on two limitations that are especially important in historical applications. First, the dimensions uncovered by NOMINATE do not necessarily have a consistent ideological meaning over time. Our case study of the 1920s highlights the challenge of interpreting NOMINATE scores in periods when party lines do not map well onto the main contours of ideological debate in political life. Second, the commonly used DW-NOMINATE variant of these scores makes assumptions that are not well suited to dealing with rapid or non-monotonic ideological change. A case study of Southern Democrats in the New Deal era suggests that a more flexible dynamic item-response model provides a better fit for this important period. These applications illustrate the feasibility and value of tailoring one's model and data to one's research goals rather than relying on off-the-shelf NOMINATE scores.
+	</details>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <a href="https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf">“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2015 <em>Political Analysis</em> 23 (2): 197–211. <a href="http://dx.doi.org/10.1093/pan/mpu021">http://dx.doi.org/10.1093/pan/mpu021</a>
+    <ul>
+      <li>
+	<details>
+	  <summary>Abstract</summary>
+	  Over the past eight decades, millions of people have been surveyed on their political opinions. Until recently, however, polls rarely included enough questions in a given domain to apply scaling techniques such as IRT models at the individual level, preventing scholars from taking full advantage of historical survey data. To address this problem, we develop a Bayesian group-level IRT approach that models latent traits at the level of demographic and/or geographic groups rather than individuals. We use a hierarchical model to borrow strength cross-sectionally and dynamic linear models to do so across time. The group-level estimates can be weighted to generate estimates for geographic units. This framework opens up vast new areas of research on historical public opinion, especially at the subnational level. We illustrate this potential by estimating the average policy liberalism of citizens in each U.S. state in each year between 1972 and 2012.
+	</details>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 ### Survey Weighting ###
 
