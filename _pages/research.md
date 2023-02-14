@@ -61,7 +61,7 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
       <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Chicago University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
       </li>
       <li>
-	Download <a href="https://www.dropbox.com/t/MRDUHsLpFAzNBDhu">updated estimates of state policy and mass ideology 1936--2020</a>
+	Download <a href="https://www.dropbox.com/t/MRDUHsLpFAzNBDhu">updated estimates of state policy and mass ideology 1936–2020</a>
       </li>
     </ul>
   </li>
