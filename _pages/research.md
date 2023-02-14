@@ -38,7 +38,7 @@ Scholars of American politics have long been skeptical of ordinary citizens’ c
 <summary> Excerpt from <a href="https://www.chronicle.com/article/the-best-scholarly-books-of-2022">&#8220;The Best Scholarly Books of 2022&#8221;</a> citation in <em>The Chronicle of Higher Education</em><br/>
 </summary>
 <blockquote>
-"It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."
+<p>"It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."</p>
 </blockquote>
 </details>
 </ul>
