@@ -26,10 +26,10 @@ I have worked on several overlapping streams of research:
       * [Comparative public opinion](#comparative-public-opinion)
       * [Reputation and international conflict](#reputation-and-international-conflict)
   * [**Methodological**](#methodological-research)
-      * Bayesian measurement
-      * survey weighting
-      * permutation inference
-      * regression-discontinuity designs
+      * [Bayesian measurement](#bayesian-measurement)
+      * [Survey weighting](#survey-weighting)
+      * [Permutation inference](#permutation-inference)
+      * [Regression-discontinuity designs](#regression-discontinuity-designs)
 
 ## Substantive research ##
 
@@ -219,6 +219,13 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	  Social scientists are frequently interested in how populations evolve over time. Creating poststratification weights for surveys, for example, requires information on the weighting variables’ joint distribution in the target population. Typically, however, population data are sparsely available across time periods. Even when population data are observed, the content and structure of the data—which variables are observed and whether their marginal or joint distributions are known—differ across time, in ways that preclude straightforward interpolation. As a consequence, survey weights are often based only on the small subset of auxiliary variables whose joint population distribution is observed regularly over time, and thus fail to take full advantage of auxiliary information. To address this problem, we develop a dynamic Bayesian ecological inference model for estimating multivariate categorical distributions from sparse, irregular, and noisy data on their marginal (or partially joint) distributions. Our approach combines (1) a Dirichlet sampling model for the observed margins conditional on the unobserved cell proportions; (2) a set of equations encoding the logical relationships among different population quantities; and (3) a Dirichlet transition model for the period-specific proportions that pools information across time periods. We illustrate this method by estimating annual U.S. phone-ownership rates by race and region based on population data irregularly available between 1930 and 1960. This approach may be useful in a wide variety of contexts where scholars wish to make dynamic ecological inferences about interior cells from marginal data. A new R package estsubpop implements the method.
 	</details>
       </li>
+      <li>
+	<a href="https://doi.org/10.7910/DVN/YPMVMH">Replication archive</a>
+      </li>
+      <li>
+	<a href="https://github.com/devincaughey/estsubpop">R package (<strong>estsubpop</strong>
+	  )</a>
+      </li>
     </ul>
   </li>
 </ul>
@@ -246,6 +253,10 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	  <summary>Abstract</summary>
 	  Over the past eight decades, millions of people have been surveyed on their political opinions. Until recently, however, polls rarely included enough questions in a given domain to apply scaling techniques such as IRT models at the individual level, preventing scholars from taking full advantage of historical survey data. To address this problem, we develop a Bayesian group-level IRT approach that models latent traits at the level of demographic and/or geographic groups rather than individuals. We use a hierarchical model to borrow strength cross-sectionally and dynamic linear models to do so across time. The group-level estimates can be weighted to generate estimates for geographic units. This framework opens up vast new areas of research on historical public opinion, especially at the subnational level. We illustrate this potential by estimating the average policy liberalism of citizens in each U.S. state in each year between 1972 and 2012.
 	</details>
+      </li>
+      <li> <a href="https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt_si.pdf">Supplementary materials</a>
+      </li>
+      <li> <a href="http://dx.doi.org/10.7910/DVN/27899">Replication archive</a>
       </li>
     </ul>
   </li>
