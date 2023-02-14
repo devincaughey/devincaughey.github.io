@@ -18,20 +18,22 @@ author_profile: true
 
 My research focuses on American politics (often from an historical angle) and political methodology, though I have also made forays into comparative politics and international relations.
 
-My work can be roughly categorized as follows:
+My scholarly publications are listed below and are organized as follows:
 
-  * [**Substantive**](#substantive-research)
+  * [**Substantive research**](#substantive-research)
       * [U.S. state politics](#state-politics)
       * [Southern politics](#southern-politics)
       * [The New Deal](#the-new-deal)
       * [Comparative public opinion](#comparative-public-opinion)
       * [Reputation and international conflict](#reputation-and-international-conflict)
-  * [**Methodological**](#methodological-research)
+  * [**Methodological research**](#methodological-research)
       * [Bayesian measurement](#bayesian-measurement)
       * [Survey weighting](#survey-weighting)
       * [Survey experiments](#survey-experiments)
       * [Permutation inference](#permutation-inference)
       * [Regression-discontinuity designs](#regression-discontinuity-designs)
+
+My [non-refereed publications](#non-refereed-publications), active [working papers](#working-papers), and [dormant projects](#dormant-projects) are listed at the bottom of this webpage.
 
 ## Substantive research ##
 
@@ -257,7 +259,11 @@ Since the mid-twentieth century, elite political behavior in the United States h
       </li>
       <li> <a href="https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt_si.pdf">Supplementary materials</a>
       </li>
-      <li> <a href="http://dx.doi.org/10.7910/DVN/27899">Replication archive</a>
+      <li>
+	<a href="http://dx.doi.org/10.7910/DVN/27899">Replication archive</a>
+      </li>
+      <li>
+	<a href="https://jdunham.io/dgo/">R package (<strong>dgo</strong>)</a>
       </li>
     </ul>
   </li>
@@ -287,6 +293,11 @@ Since the mid-twentieth century, elite political behavior in the United States h
 <ul>
   <li>
     <a href="https://devincaughey.github.io/files/caughey_et_al_2017_nonparametric_combination/caughey_et_al_2017_nonparametric_combination.pdf">“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
+    <ul>
+      <li>
+	<a href="https://cran.r-project.org/package=NPC">R package (<strong>NPC</strong>)</a>
+      </li>
+    </ul>
   </li>
 </ul>
 
@@ -303,3 +314,47 @@ Since the mid-twentieth century, elite political behavior in the United States h
     <a href="https://devincaughey.github.io/files/caughey_sekhon_2011_election_rd/caughey_sekhon_2011_election_rd.pdf">“Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Races, 1942–2008”</a> (with <a href="http://sekhon.berkeley.edu">Jasjeet S. Sekhon</a>). 2011. <em>Political Analysis</em> 19 (4): 385–408. <a href="http://dx.doi.org/10.1093/pan/mpr032">http://dx.doi.org/10.1093/pan/mpr032</a>
   </li>
 </ul>
+
+## Non-referreed publications ##
+
+<ul>
+  <li>
+    Devin Caughey. 2022a. Review of *A Troubled Birth: The 1930s and American Public Opinion*, by Susan Herbst. *Perspectives on Politics* 20 (3): 1102–1104. <https://doi.org/10.1017/S1537592722001724>.
+  </li>
+
+  <li>
+    Devin Caughey. 2022b. Review of *How the Tea Party Captured the GOP: Insurgent Factions in American Politics*, by Rachel M. Blum. *Party Politics* 28 (3): 587–588. <https://doi.org/10.1177/13540688221081896>.
+  </li>
+
+  <li>
+    Devin Caughey and Eric Schickler. 2021. “The Democratic-CIO Alliance: The Benefits of Friendship.” *Labor: Studies in Working-Class History* 18 (3): 120–125. <https://doi.org/10.1215/15476715-9061521>.
+  </li>
+
+  <li>
+    Devin Caughey and Sara Chatfield. 2020. “Causal Inference and American Political Development: Contrasts and Complementarities.” *Public Choice* 185:359–376. <https://doi.org/10.1007/s11127-019-00694-4>.
+  </li>
+
+  <li>
+    Devin Caughey and Christopher Warshaw. 2019. “Public Opinion in Subnational Politics.” *Journal of Politics* 81, no. 1 (Symposium on Subnational Policymaking): 352–363. <https://doi.org/10.1086/700723>.
+  </li>
+
+  <li>
+    Devin Caughey and Eric Schickler. 2017. “Keith Poole, Ideology Scores, and the Study of Congressional Development.” *The Legislative Scholar: The Newsletter of the Legislative Studies Section of the American Political Science Association* 2 (2): 37–42.
+  </li>
+
+</ul>
+
+## Working papers ##
+
+  * ["Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects"](caughey_et_al_2023_bounded_null.pdf) (with Allan Dafoe, Xinran Li, and Luke Miratrix)
+  * “Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach” (with Elissa Berwick)
+  * "Creating a Constituency for Liberalism: The Political Effects of the Tennessee Valley
+Authority" (with Sara Chatfield)
+  * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
+  * “Item Response Theory for Conjoint Survey Experiments” (with Hiroto Katsumata and Teppei Yamamoto)
+
+## Dormant projects ##
+
+  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](https://devincaughey.github.io/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
+  * ["Target Selection as Variable Selection: Using the Lasso to Select Auxiliary Vectors
+for the Construction of Survey Weights"](https://devincaughey.github.io/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
