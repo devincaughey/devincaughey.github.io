@@ -272,14 +272,24 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 ### Survey Experiments ###
 
-“Information Equivalence in Survey Experiments” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Baobao Zhang). 2018. *Political Analysis* 26 (4): 399–416.
+<ul>
+  <li><a href="https://devincaughey.github.io/files/dafoe_et_al_2018_information_equivalence/dafoe_et_al_2018_information_equivalence.pdf">"Information Equivalence in Survey Experiments"</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://baobaofzhang.github.io">Baobao Zhang</a>). 2018. <em>Political Analysis</em> 26 (4): 399–416. <a href="http://dx.doi.org/10.1017/pan.2018.9">http://dx.doi.org/10.1017/pan.2018.9</a>
+  </li>
+</ul>
 
 ### Permutation Inference ###
 
-“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and Jason Seawright). 2017. *Journal of Politics* 79 (2): 688–701.
+<ul>
+  <li>
+    “Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
+  </li>
+</ul>
 
-“A Rank-based Permutation Test for Equivalence and Non-inferiority” (with Rosa Arboretti and Eleonora Carrozzo). 2015 *Italian Journal of Applied Statistics* 25 (1): 81–92.
-
+<ul>
+  <li>
+    <a href="https://devincaughey.github.io/files/arboretti_et_al_2015_permutation_equivalence/arboretti_et_al_2015_permutation_equivalence.pdf">“A Rank-based Permutation Test for Equivalence and Non-inferiority”</a> (with Rosa Arboretti and Eleonora Carrozzo). 2015 <em>Italian Journal of Applied Statistics</em> 25 (1): 81–92. <a href="http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf">http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf</a>.
+  </li>
+</ul>
 
 ### Regression-Discontinuity Designs ###
 
