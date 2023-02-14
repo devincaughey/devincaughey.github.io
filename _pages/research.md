@@ -62,6 +62,7 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
       </li>
       <li>
 	Download <a href="https://www.dropbox.com/t/MRDUHsLpFAzNBDhu">updated estimates of state policy and mass ideology 1936--2020</a>
+      </li>
     </ul>
   </li>
 </ul>
@@ -70,7 +71,7 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
 
 <ul>
   <li>
-   <a href="https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf">“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>American Political Science Review</em> 112 (2): 249–266. <a href="http://dx.doi.org/10.1017/S0003055417000533">http://dx.doi.org/10.1017/S0003055417000533</a>.
+   <a href="/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf">“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>American Political Science Review</em> 112 (2): 249–266. <a href="http://dx.doi.org/10.1017/S0003055417000533">http://dx.doi.org/10.1017/S0003055417000533</a>.
       <ul>
         <li>
 	  <details>
@@ -83,7 +84,7 @@ Using eight decades of data, we examine the magnitude, mechanisms, and moderator
 	</li>
       </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf">&#8220;The Ideological Nationalization of Partisan Subconstituencies in the American States&#8221;</a> (with James Dunham and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>Public Choice</em> 176 (1–2): 133–151. <a href="http://dx.doi.org/10.1007/s11127-018-0543-3">http://dx.doi.org/10.1007/s11127-018-0543-3</a>.
+  <li> <a href="/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf">&#8220;The Ideological Nationalization of Partisan Subconstituencies in the American States&#8221;</a> (with James Dunham and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2018 <em>Public Choice</em> 176 (1–2): 133–151. <a href="http://dx.doi.org/10.1007/s11127-018-0543-3">http://dx.doi.org/10.1007/s11127-018-0543-3</a>.
       <ul>
         <li>
           <details>
@@ -93,7 +94,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
         </li>
       </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf">“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”</a> (with Chris Tausanovitch and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2017. <em>Election Law Journal</em> 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <a href="http://dx.doi.org/10.1089/elj.2017.0452">http://dx.doi.org/10.1089/elj.2017.0452</a>. 
+  <li> <a href="/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf">“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”</a> (with Chris Tausanovitch and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2017. <em>Election Law Journal</em> 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <a href="http://dx.doi.org/10.1089/elj.2017.0452">http://dx.doi.org/10.1089/elj.2017.0452</a>. 
       <ul>
         <li>
           <details>
@@ -103,7 +104,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
         </li>
       </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf">“Incremental Democracy: The Policy Effects of Partisan Control of State Government”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a> and <a href="https://yiqingxu.org/">Yiqing Xu</a>). 2017. <em>Journal of Politics</em> 79 (4): 1–17. <a href="http://dx.doi.org/10.1086/692669">http://dx.doi.org/10.1086/692669</a>.
+  <li> <a href="/files/caughey_et_al_2017_policy_effects/caughey_et_al_2017_policy_effects.pdf">“Incremental Democracy: The Policy Effects of Partisan Control of State Government”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a> and <a href="https://yiqingxu.org/">Yiqing Xu</a>). 2017. <em>Journal of Politics</em> 79 (4): 1–17. <a href="http://dx.doi.org/10.1086/692669">http://dx.doi.org/10.1086/692669</a>.
       <ul>
         <li>
           <details>
@@ -115,7 +116,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	</li>
       </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/caughey_warshaw_2016_dynamics_state_policy/caughey_warshaw_2016_dynamics_state_policy.pdf">&#8220;The Dynamics of State Policy Liberalism, 1936–2014&#8221;</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2016. <em>American Journal of Political Science</em> 60 (4): 899–913. <a href="http://dx.doi.org/10.1111/ajps.12219">http://dx.doi.org/10.1111/ajps.12219</a>.
+  <li> <a href="/files/caughey_warshaw_2016_dynamics_state_policy/caughey_warshaw_2016_dynamics_state_policy.pdf">&#8220;The Dynamics of State Policy Liberalism, 1936–2014&#8221;</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2016. <em>American Journal of Political Science</em> 60 (4): 899–913. <a href="http://dx.doi.org/10.1111/ajps.12219">http://dx.doi.org/10.1111/ajps.12219</a>.
       <ul>
         <li><details>
             <summary>Abstract </summary>
@@ -130,7 +131,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf"><em>The Unsolid South: Mass Politics and National Representation in a One-Party Enclave</em></a>. 2018. Princeton, NJ: Princeton University Press. 240 pages.
+    <a href="/files/caughey_2018_unsolid_south/caughey_2018_unsolid_south.pdf"><em>The Unsolid South: Mass Politics and National Representation in a One-Party Enclave</em></a>. 2018. Princeton, NJ: Princeton University Press. 240 pages.
     <ul>
       <li>
         <details>
@@ -139,7 +140,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
         </details>
       </li>
       <li>
-        Replication <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta">data</a> and <a href="https://devincaughey.github.io/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf">codebook</a>
+        Replication <a href="/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta">data</a> and <a href="/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf">codebook</a>
       </li>     
       <li>
         Buy from <a href="https://press.princeton.edu/titles/13231.html">Princeton Univeristy Press</a> or <a href="https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=">Amazon</a>
@@ -152,7 +153,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf">&#8220;Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods&#8221;</a> (with Michael C. Dougal and <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2020. <em>Journal of Politics</em> 82 (2): 494–508. <a href="https://doi.org/10.1086/707305">https://doi.org/10.1086/707305</a>
+    <a href="/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment.pdf">&#8220;Policy and Performance in the New Deal Realignment: Evidence from Old Data and New Methods&#8221;</a> (with Michael C. Dougal and <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2020. <em>Journal of Politics</em> 82 (2): 494–508. <a href="https://doi.org/10.1086/707305">https://doi.org/10.1086/707305</a>
     <ul>
       <li>
         <details>
@@ -160,13 +161,13 @@ Since the mid-twentieth century, elite political behavior in the United States h
           Recent research has challenged the policy bases of the New Deal realignment, arguing that it was instead driven by retrospective evaluations of the economy. Using a comprehensive analysis of opinion polls conducted in 1936–52, we argue that policy preferences were far from irrelevant. At the individual level, presidential Republicans who became Democrats were much more supportive of New Deal policies than those who remained loyal (vice versa for Democrats). At the state level, both public support for the New Deal—as measured by a group-level item response model—and income growth predict pro-Democratic shifts in presidential elections. In short, the realignment was rooted in both policy preferences and economic retrospection. Moreover, mass support for the New Deal, unlike partisan identification, was a leading indicator of long-term electoral trends, predicting presidential elections decades in the future even better than it does contemporaneous elections.
         </details>
       </li>
-      <li><a href="https://devincaughey.github.io/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment_appendix.pdf">Online appendix</a>
+      <li><a href="/files/caughey_et_al_2020_new_deal_realignment/caughey_et_al_2020_new_deal_realignment_appendix.pdf">Online appendix</a>
       </li>
       <li><a href="https://doi.org/10.7910/DVN/UYGWOB">Replication archive</a>
       </li>
     </ul>
   </li>
-  <li> <a href="https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal.pdf">&#8220;Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945&#8221;</a> (with <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2011. <em>Studies in American Political Development</em> 25 (2): 1–28. <a href="http://dx.doi.org/10.1017/S0898588X11000101">http://dx.doi.org/10.1017/S0898588X11000101</a>
+  <li> <a href="/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal.pdf">&#8220;Public Opinion, Organized Labor, and the Limits of New Deal Liberalism, 1936–1945&#8221;</a> (with <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a>). 2011. <em>Studies in American Political Development</em> 25 (2): 1–28. <a href="http://dx.doi.org/10.1017/S0898588X11000101">http://dx.doi.org/10.1017/S0898588X11000101</a>
     <ul>
       <li>
         <details>
@@ -175,7 +176,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
         </details>
       </li>
       <li>
-        <a href="https://devincaughey.github.io/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx">Online Appendix</a><br/>
+        <a href="/files/schickler_caughey_2011_opinion_new_deal/schickler_caughey_2011_opinion_new_deal_appendix.docx">Online Appendix</a><br/>
       </li>
     </ul>
   </li>
@@ -184,7 +185,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 ### Comparative Public Opinion ###
 
 <ul>
-  <li><a href="https://devincaughey.github.io/files/caughey_et_al_2019_ideology_european_publics/caughey_et_al_2019_ideology_european_publics.pdf">“Policy Ideology in European Mass Publics, 1981–2016”</a> (with <a href="https://tomogradypolitics.wordpress.com">Tom O'Grady</a> and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2019. <em>American Political Science Review</em> 113 (3): 674–693. <a href="https://doi.org/10.1017/S0003055419000157">https://doi.org/10.1017/S0003055419000157</a>.
+  <li><a href="/files/caughey_et_al_2019_ideology_european_publics/caughey_et_al_2019_ideology_european_publics.pdf">“Policy Ideology in European Mass Publics, 1981–2016”</a> (with <a href="https://tomogradypolitics.wordpress.com">Tom O'Grady</a> and <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2019. <em>American Political Science Review</em> 113 (3): 674–693. <a href="https://doi.org/10.1017/S0003055419000157">https://doi.org/10.1017/S0003055419000157</a>.
     <ul>
       <li>
         <details>
@@ -199,7 +200,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 ### Reputation and International Conflict ###
 
 <ul>
-  <li><a href="https://devincaughey.github.io/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf">“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>). 2016. <em>World Politics</em> 68 (2): 341–381. <a href="http://dx.doi.org/10.1017/S0043887115000416">http://dx.doi.org/10.1017/S0043887115000416</a>
+  <li><a href="/files/dafoe_caughey_2016_honor_war/dafoe_caughey_2016_honor_war.pdf">“Honor and War: Southern U.S. Presidents and the Effects of Concern for Reputation”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>). 2016. <em>World Politics</em> 68 (2): 341–381. <a href="http://dx.doi.org/10.1017/S0043887115000416">http://dx.doi.org/10.1017/S0043887115000416</a>
     <ul>
       <li>
         <details>
@@ -217,7 +218,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 
 <ul>
-  <li><a href="https://devincaughey.github.io/files/caughey_wang_2019_dynamic_ei/caughey_wang_2019_dynamic_ei.pdf">“Dynamic Ecological Inference for Time-Varying Population Distributions Based on Sparse, Irregular, and Noisy Marginal Data”</a> (with Mallory Wang). 2019. <em>Political Analysis</em> 27 (3): 388–396. <a href="https://doi.org/10.1017/pan.2019.4">https://doi.org/10.1017/pan.2019.4</a>
+  <li><a href="/files/caughey_wang_2019_dynamic_ei/caughey_wang_2019_dynamic_ei.pdf">“Dynamic Ecological Inference for Time-Varying Population Distributions Based on Sparse, Irregular, and Noisy Marginal Data”</a> (with Mallory Wang). 2019. <em>Political Analysis</em> 27 (3): 388–396. <a href="https://doi.org/10.1017/pan.2019.4">https://doi.org/10.1017/pan.2019.4</a>
     <ul>
       <li>
 	<details>
@@ -237,7 +238,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_schickler_2016_nominate/caughey_schickler_2016_nominate.pdf">“Substance and Change in Congressional Ideology: NOMINATE and Its Alternatives”</a> (with Eric Schickler). 2016. <em>Studies in American Political Development</em> 30 (October): 1–19. <a href="http://dx.doi.org/10.1017/S0898588X16000092">http://dx.doi.org/10.1017/S0898588X16000092</a>
+    <a href="/files/caughey_schickler_2016_nominate/caughey_schickler_2016_nominate.pdf">“Substance and Change in Congressional Ideology: NOMINATE and Its Alternatives”</a> (with Eric Schickler). 2016. <em>Studies in American Political Development</em> 30 (October): 1–19. <a href="http://dx.doi.org/10.1017/S0898588X16000092">http://dx.doi.org/10.1017/S0898588X16000092</a>
     <ul>
       <li>
 	<details>
@@ -251,7 +252,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf">“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2015 <em>Political Analysis</em> 23 (2): 197–211. <a href="http://dx.doi.org/10.1093/pan/mpu021">http://dx.doi.org/10.1093/pan/mpu021</a>
+    <a href="/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt.pdf">“Dynamic Estimation of Latent Opinion Using a Hierarchical Group-Level IRT Model”</a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2015 <em>Political Analysis</em> 23 (2): 197–211. <a href="http://dx.doi.org/10.1093/pan/mpu021">http://dx.doi.org/10.1093/pan/mpu021</a>
     <ul>
       <li>
 	<details>
@@ -259,7 +260,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 	  Over the past eight decades, millions of people have been surveyed on their political opinions. Until recently, however, polls rarely included enough questions in a given domain to apply scaling techniques such as IRT models at the individual level, preventing scholars from taking full advantage of historical survey data. To address this problem, we develop a Bayesian group-level IRT approach that models latent traits at the level of demographic and/or geographic groups rather than individuals. We use a hierarchical model to borrow strength cross-sectionally and dynamic linear models to do so across time. The group-level estimates can be weighted to generate estimates for geographic units. This framework opens up vast new areas of research on historical public opinion, especially at the subnational level. We illustrate this potential by estimating the average policy liberalism of citizens in each U.S. state in each year between 1972 and 2012.
 	</details>
       </li>
-      <li> <a href="https://devincaughey.github.io/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt_si.pdf">Supplementary materials</a>
+      <li> <a href="/files/caughey_warshaw_2015_dynamic_opinion_irt/caughey_warshaw_2015_dynamic_opinion_irt_si.pdf">Supplementary materials</a>
       </li>
       <li>
 	<a href="http://dx.doi.org/10.7910/DVN/27899">Replication archive</a>
@@ -275,14 +276,14 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_et_al_2020_target_estimation/caughey_et_al_2020_target_estimation.pdf"><em>Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias</em></a> (with Adam J. Berinsky, Sara Chatfield, Erin Hartman, Eric Schickler, and Jasjeet J. Sekhon). 2020. Elements in Quantitative and Computational Methods for the Social Sciences. Cambridge, UK: Cambridge University Press. <a href="https://doi.org/10.1017/9781108879217">https://doi.org/10.1017/9781108879217</a>. 112 pages.
+    <a href="/files/caughey_et_al_2020_target_estimation/caughey_et_al_2020_target_estimation.pdf"><em>Target Estimation and Adjustment Weighting for Survey Nonresponse and Sampling Bias</em></a> (with Adam J. Berinsky, Sara Chatfield, Erin Hartman, Eric Schickler, and Jasjeet J. Sekhon). 2020. Elements in Quantitative and Computational Methods for the Social Sciences. Cambridge, UK: Cambridge University Press. <a href="https://doi.org/10.1017/9781108879217">https://doi.org/10.1017/9781108879217</a>. 112 pages.
   </li>
 </ul>
 
 ### Survey experiments ###
 
 <ul>
-  <li><a href="https://devincaughey.github.io/files/dafoe_et_al_2018_information_equivalence/dafoe_et_al_2018_information_equivalence.pdf">"Information Equivalence in Survey Experiments"</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://baobaofzhang.github.io">Baobao Zhang</a>). 2018. <em>Political Analysis</em> 26 (4): 399–416. <a href="http://dx.doi.org/10.1017/pan.2018.9">http://dx.doi.org/10.1017/pan.2018.9</a>
+  <li><a href="/files/dafoe_et_al_2018_information_equivalence/dafoe_et_al_2018_information_equivalence.pdf">"Information Equivalence in Survey Experiments"</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://baobaofzhang.github.io">Baobao Zhang</a>). 2018. <em>Political Analysis</em> 26 (4): 399–416. <a href="http://dx.doi.org/10.1017/pan.2018.9">http://dx.doi.org/10.1017/pan.2018.9</a>
     <ul>
       <li> <a href="https://doi.org/10.7910/DVN/KVZXE8">Replication archive</a>
       </li>
@@ -294,7 +295,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_et_al_2017_nonparametric_combination/caughey_et_al_2017_nonparametric_combination.pdf">“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
+    <a href="/files/caughey_et_al_2017_nonparametric_combination/caughey_et_al_2017_nonparametric_combination.pdf">“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
     <ul>
       <li>
 	<a href="https://cran.r-project.org/package=NPC">R package (<strong>NPC</strong>)</a>
@@ -305,7 +306,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/arboretti_et_al_2015_permutation_equivalence/arboretti_et_al_2015_permutation_equivalence.pdf">“A Rank-based Permutation Test for Equivalence and Non-inferiority”</a> (with Rosa Arboretti and Eleonora Carrozzo). 2015. <em>Italian Journal of Applied Statistics</em> 25 (1): 81–92. <a href="http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf">http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf</a>.
+    <a href="/files/arboretti_et_al_2015_permutation_equivalence/arboretti_et_al_2015_permutation_equivalence.pdf">“A Rank-based Permutation Test for Equivalence and Non-inferiority”</a> (with Rosa Arboretti and Eleonora Carrozzo). 2015. <em>Italian Journal of Applied Statistics</em> 25 (1): 81–92. <a href="http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf">http://sa-ijas.stat.unipd.it/sites/sa-ijas.stat.unipd.it/files/05_1.pdf</a>.
   </li>
 </ul>
 
@@ -313,7 +314,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://devincaughey.github.io/files/caughey_sekhon_2011_election_rd/caughey_sekhon_2011_election_rd.pdf">“Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Races, 1942–2008”</a> (with <a href="http://sekhon.berkeley.edu">Jasjeet S. Sekhon</a>). 2011. <em>Political Analysis</em> 19 (4): 385–408. <a href="http://dx.doi.org/10.1093/pan/mpr032">http://dx.doi.org/10.1093/pan/mpr032</a>
+    <a href="/files/caughey_sekhon_2011_election_rd/caughey_sekhon_2011_election_rd.pdf">“Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Races, 1942–2008”</a> (with <a href="http://sekhon.berkeley.edu">Jasjeet S. Sekhon</a>). 2011. <em>Political Analysis</em> 19 (4): 385–408. <a href="http://dx.doi.org/10.1093/pan/mpr032">http://dx.doi.org/10.1093/pan/mpr032</a>
   </li>
 </ul>
 
@@ -352,5 +353,5 @@ Authority" (with Sara Chatfield)
 ## Dormant projects ##
 
   * ["Target Selection as Variable Selection: Using the Lasso to Select Auxiliary Vectors
-for the Construction of Survey Weights"](https://devincaughey.github.io/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
-  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](https://devincaughey.github.io/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
+for the Construction of Survey Weights"](/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
+  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
