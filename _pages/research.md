@@ -52,7 +52,7 @@ I have worked on several overlapping streams of research:
       </li>
       <li> Press coverage in <a href="https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"><em>The Economist</em> </a> and <a href="https://www.nytimes.com/2022/09/07/opinion/democracy-states-america.html"><em>The New York Times</em> </a>
       </li>
-      <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Princeton University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
+      <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Chicago University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
       </li>
     </ul>
   </li>
