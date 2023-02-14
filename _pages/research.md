@@ -281,7 +281,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    “Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories” (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
+    <a href="https://devincaughey.github.io/files/caughey_et_al_2017_nonparametric_combination/caughey_et_al_2017_nonparametric_combination.pdf">“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
   </li>
 </ul>
 
