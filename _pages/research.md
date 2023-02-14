@@ -65,11 +65,12 @@ I have worked on several overlapping streams of research:
 #### Articles ####
 
   * [“Policy Preferences and Policy Change: Dynamic Responsiveness in the American States, 1936–2014”](https://devincaughey.github.io/files/caughey_warshaw_2018_dynamic_responsiveness/caughey_warshaw_2018_dynamic_responsiveness.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *American Political Science Review* 112 (2): 249–266. <http://dx.doi.org/10.1017/S0003055417000533>.
-  <details>
-<summary> Abstract </summary>
-Using eight decades of data, we examine the magnitude, mechanisms, and moderators of dynamic responsiveness in the American states. We show that on both economic and (especially) social issues, the liberalism of state publics predicts future change in state policy liberalism. Dynamic responsiveness is gradual, however; large policy shifts are the result of the cumulation of incremental responsiveness over many years. Partisan control of government appears to mediate only a fraction of responsiveness, suggesting that, contrary to conventional wisdom, responsiveness occurs in large part through the adaptation of incumbent officials. Dynamic responsiveness has increased over time but does not seem to be influenced by institutions such as direct democracy or campaign finance regulations. We conclude that our findings, though in some respects normatively ambiguous, on the whole paint a reassuring portrait of statehouse democracy.
-</details>
-<br>
+      * <details>
+    <summary> Abstract </summary>
+<blockquote>
+  Using eight decades of data, we examine the magnitude, mechanisms, and moderators of dynamic responsiveness in the American states. We show that on both economic and (especially) social issues, the liberalism of state publics predicts future change in state policy liberalism. Dynamic responsiveness is gradual, however; large policy shifts are the result of the cumulation of incremental responsiveness over many years. Partisan control of government appears to mediate only a fraction of responsiveness, suggesting that, contrary to conventional wisdom, responsiveness occurs in large part through the adaptation of incumbent officials. Dynamic responsiveness has increased over time but does not seem to be influenced by institutions such as direct democracy or campaign finance regulations. We conclude that our findings, though in some respects normatively ambiguous, on the whole paint a reassuring portrait of statehouse democracy.
+</blockquote>
+    </details>
   * ["The Ideological Nationalization of Partisan Subconstituencies in the American States"](https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf) (with James Dunham and [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *Public Choice* 176 (1–2): 133–151. <http://dx.doi.org/10.1007/s11127-018-0543-3>.
 <details>
 <summary>Abstract </summary>
