@@ -36,30 +36,26 @@ I have worked on several overlapping streams of research:
 #### Book ####
 
 <ul>
-<li><a href="https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.<ul>
-<li>
-<details>
-<summary> Abstract </summary>
-<blockquote>
- Scholars of American politics have long been skeptical of ordinary citizens’ capacity to influence, let alone control, their governments. Drawing on over eight decades of state-level evidence on public opinion, elections, and policymaking, *Dynamic Democracy* poses a powerful challenge to this pessimistic view. It reveals that although American democracy cannot be taken for granted, state policymaking is far more responsive to citizens’ demands than skeptics claim. Although governments respond sluggishly in the short term, over the long term, electoral incentives induce state parties and politicians—and ultimately policymaking—to adapt to voters’ preferences. The authors take an empirical and theoretical approach that allows them to assess democracy as a dynamic process. Their evidence across states and over time gives them new leverage to assess relevant outcomes and trends, including the evolution of mass partisanship, mass ideology, and the relationship between partisanship and ideology since the mid-twentieth century; the nationalization of state-level politics; the mechanisms through which voters hold incumbents accountable; the performance of moderate candidates relative to extreme candidates; and the quality of state-level democracy today relative to state-level democracy in other periods.
-</blockquote>
-</details>
-</li>
-<li>
-<details>
-<summary> Excerpt from <a href="https://www.chronicle.com/article/the-best-scholarly-books-of-2022">&#8220;The Best Scholarly Books of 2022&#8221;</a> citation in <em>The Chronicle of Higher Education</em><br/>
-</summary>
-<blockquote>
-"It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."
-</blockquote>
-</details>
-</li>
-<li> Press coverage in <a href="https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"><em>The Economist</em> </a> and <a href="https://www.nytimes.com/2022/09/07/opinion/democracy-states-america.html"><em>The New York Times</em> </a>
-</li>
-<li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Princeton University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
-</li>
-</ul>
-</li>
+  <li><a href="https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf"><em>Dynamic Democracy: Citizens, Parties, and Policymaking in the American States</em></a> (with <a href="http://www.chriswarshaw.com">Christopher Warshaw</a>). 2022. Chicago: University of Chicago Press. 248 pages.<ul>
+      <li>
+	<details>
+	  <summary> Abstract </summary>
+	    Scholars of American politics have long been skeptical of ordinary citizens’ capacity to influence, let alone control, their governments. Drawing on over eight decades of state-level evidence on public opinion, elections, and policymaking, *Dynamic Democracy* poses a powerful challenge to this pessimistic view. It reveals that although American democracy cannot be taken for granted, state policymaking is far more responsive to citizens’ demands than skeptics claim. Although governments respond sluggishly in the short term, over the long term, electoral incentives induce state parties and politicians—and ultimately policymaking—to adapt to voters’ preferences. The authors take an empirical and theoretical approach that allows them to assess democracy as a dynamic process. Their evidence across states and over time gives them new leverage to assess relevant outcomes and trends, including the evolution of mass partisanship, mass ideology, and the relationship between partisanship and ideology since the mid-twentieth century; the nationalization of state-level politics; the mechanisms through which voters hold incumbents accountable; the performance of moderate candidates relative to extreme candidates; and the quality of state-level democracy today relative to state-level democracy in other periods.
+	</details>
+      </li>
+      <li>
+	<details>
+	  <summary> Excerpt from <a href="https://www.chronicle.com/article/the-best-scholarly-books-of-2022">&#8220;The Best Scholarly Books of 2022&#8221;</a> citation in <em>The Chronicle of Higher Education</em><br/>
+	  </summary>
+	    "It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy."
+	</details>
+      </li>
+      <li> Press coverage in <a href="https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs"><em>The Economist</em> </a> and <a href="https://www.nytimes.com/2022/09/07/opinion/democracy-states-america.html"><em>The New York Times</em> </a>
+      </li>
+      <li> Buy from <a href="https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html">Princeton University Press</a> or <a href="https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222">Amazon</a>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 #### Articles ####
@@ -68,18 +64,18 @@ I have worked on several overlapping streams of research:
       <ul>
 	<li><details>
 	    <summary> Abstract </summary>
-	    <blockquote>
 	      Using eight decades of data, we examine the magnitude, mechanisms, and moderators of dynamic responsiveness in the American states. We show that on both economic and (especially) social issues, the liberalism of state publics predicts future change in state policy liberalism. Dynamic responsiveness is gradual, however; large policy shifts are the result of the cumulation of incremental responsiveness over many years. Partisan control of government appears to mediate only a fraction of responsiveness, suggesting that, contrary to conventional wisdom, responsiveness occurs in large part through the adaptation of incumbent officials. Dynamic responsiveness has increased over time but does not seem to be influenced by institutions such as direct democracy or campaign finance regulations. We conclude that our findings, though in some respects normatively ambiguous, on the whole paint a reassuring portrait of statehouse democracy.
-	    </blockquote>
 	  </details>
 	  </li>
       </ul>
   * ["The Ideological Nationalization of Partisan Subconstituencies in the American States"](https://devincaughey.github.io/files/caughey_et_al_2018_ideological_nationalization/caughey_et_al_2018_ideological_nationalization.pdf) (with James Dunham and [Christopher Warshaw](http://www.chriswarshaw.com)). 2018 *Public Choice* 176 (1–2): 133–151. <http://dx.doi.org/10.1007/s11127-018-0543-3>.
-<details>
-<summary>Abstract </summary>
-Since the mid-twentieth century, elite political behavior in the United States has become much more nationalized. In Congress, for example, within-party geographic cleavages have declined, roll-call voting has become more one-dimensional, and Democrats and Republicans have diverged along this main dimension of national partisan conflict. The existing literature finds that citizens have only weakly and belatedly mimicked elite trends. We show, however, that a different picture emerges if we focus not on individual citizens, but on the aggregate characteristics of geographic constituencies. Using biennial estimates of the economic, racial, and social policy liberalism of the average Democrat and Republican in each state over the past six decades, we demonstrate a surprisingly close correspondence between mass and elite trends. Specifically, we find that: (1) ideological divergence between Democrats and Republicans has widened dramatically within each domain, just as it has in Congress; (2) ideological variation across senators’ partisan subconstituencies is now explained almost completely by party rather than state, closely tracking trends in the Senate; and (3) economic, racial, and social liberalism have become highly correlated across partisan subconstituencies, just as they have across members of Congress. Overall, our findings contradict the reigning consensus that polarization in Congress has proceeded much more rapidly and extensively than polarization in the mass public.
-</details>
-<br>
+	<ul>
+	  <li><details>
+	      <summary>Abstract </summary>
+	      Since the mid-twentieth century, elite political behavior in the United States has become much more nationalized. In Congress, for example, within-party geographic cleavages have declined, roll-call voting has become more one-dimensional, and Democrats and Republicans have diverged along this main dimension of national partisan conflict. The existing literature finds that citizens have only weakly and belatedly mimicked elite trends. We show, however, that a different picture emerges if we focus not on individual citizens, but on the aggregate characteristics of geographic constituencies. Using biennial estimates of the economic, racial, and social policy liberalism of the average Democrat and Republican in each state over the past six decades, we demonstrate a surprisingly close correspondence between mass and elite trends. Specifically, we find that: (1) ideological divergence between Democrats and Republicans has widened dramatically within each domain, just as it has in Congress; (2) ideological variation across senators’ partisan subconstituencies is now explained almost completely by party rather than state, closely tracking trends in the Senate; and (3) economic, racial, and social liberalism have become highly correlated across partisan subconstituencies, just as they have across members of Congress. Overall, our findings contradict the reigning consensus that polarization in Congress has proceeded much more rapidly and extensively than polarization in the mass public.
+	    </details>
+	  </li>
+	</ul>
   * [“Partisan Gerrymandering and the Political Process: Effects on Roll-Call Voting and State Policies”](https://devincaughey.github.io/files/caughey_et_al_2017_partisan_gerrymandering/caughey_et_al_2017_partisan_gerrymandering.pdf) (with Chris Tausanovitch and [Christopher Warshaw](http://www.chriswarshaw.com)). 2017. *Election Law Journal* 16, no. 4 (Symposium on Partisan Gerrymandering and the Efficiency Gap): 453–469. <http://dx.doi.org/10.1089/elj.2017.0452>. 
 <details>
 <summary>Abstract </summary>
