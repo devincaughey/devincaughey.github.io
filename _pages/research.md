@@ -26,8 +26,8 @@ My research comprises several overlapping streams, some [substantive](#substanti
 
 #### Book ####
 
-<ul> 
-[*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press. 248 pages.
+
+  * [*Dynamic Democracy: Citizens, Parties, and Policymaking in the American States*](https://devincaughey.github.io/files/caughey_warshaw_2022_dynamic_democracy/caughey_warshaw_2022_dynamic_democracy.pdf) (with [Christopher Warshaw](http://www.chriswarshaw.com)). 2022. Chicago: University of Chicago Press. 248 pages.
 <br>
 [Publisher](https://press.uchicago.edu/ucp/books/book/chicago/D/bo180512815.html) $\mid$ [Amazon](https://www.amazon.com/Dynamic-Democracy-Elections-Policymaking-American/dp/0226822222) $\mid$
 [*The Economist*](https://www.economist.com/interactive/briefing/2022/09/03/american-policy-is-splitting-state-by-state-into-two-blocs) $\mid$
@@ -43,7 +43,6 @@ Scholars of American politics have long been skeptical of ordinary citizens’ c
 <p>It is easy to be pessimistic about American democracy. Elected officials appear far more interested in scoring partisan points than crafting policy that represents their constituents&#8230;<em>Dynamic Democracy</em> presents a powerful, data-drenched rejoinder to this line of thinking. The authors argue that, at the state level, policy has been surprisingly reflective of public preferences. Slowly but surely, as voters’ preferences change, so too have the policies of the states in which they live. In the typically staid field of quantitative American politics, Caughey and Warshaw have written a book that speaks to urgent concerns about the state of our democracy.</p>
 </blockquote>
 </details>
-</ul>
 
 
 #### Articles ####
