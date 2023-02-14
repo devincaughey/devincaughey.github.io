@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 
-My research comprises several overlapping streams, some [substantive](#/research/substantive-research) in focus (U.S. state politics, the one-party South, the New Deal) and others [methodological](#methodological-research) (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
+My research comprises several overlapping streams, some [substantive](#substantive-research) in focus (U.S. state politics, the one-party South, the New Deal) and others [methodological](#methodological-research) (Bayesian measurement, survey weighting, permutation inference, regression-discontinuity designs).
 
 ## Substantive Research ##
 
