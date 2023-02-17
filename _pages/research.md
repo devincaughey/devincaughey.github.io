@@ -343,12 +343,12 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 ## Working papers ##
 
-  * ["Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects"](caughey_et_al_2023_bounded_null.pdf) (with Allan Dafoe, Xinran Li, and Luke Miratrix)
+  * ["Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects"](/files/working/caughey_et_al_2023_bounded_null.pdf) (with Allan Dafoe, Xinran Li, and Luke Miratrix)
+  * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_2023_bounded_null.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
   * “Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach” (with Elissa Berwick)
   * "Creating a Constituency for Liberalism: The Political Effects of the Tennessee Valley
 Authority" (with Sara Chatfield)
   * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
-  * “Item Response Theory for Conjoint Survey Experiments” (with Hiroto Katsumata and Teppei Yamamoto)
 
 ## Dormant projects ##
 
