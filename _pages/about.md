@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor in the [MIT political science department](https://polisci.mit.edu), where I have taught since 2012. Before that I studied at Yale (History BA), Clare College, Cambridge (History MPhil), and UC Berkeley (Political Science PhD).
+I am professor of [political science at MIT](https://polisci.mit.edu), where I have taught since 2012. Before that I studied at Yale (History BA), Clare College, Cambridge (History MPhil), and UC Berkeley (Political Science PhD).
 
 Most of my [research](https://devincaughey.github.io/research/) focuses on American politics, but I have also published on comparative politics, international relations, and political methodology. I am particularly interested in how representation and accountability have evolved over the course of American history, and I often use a combination of Bayesian measurement models and causal inference methods to study these questions.
 
