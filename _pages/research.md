@@ -295,6 +295,17 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
+    <a href="https://doi.org/10.48550/arXiv.2101.09195">“Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>, Xinran Li, and Luke Miratrix). Forthcoming. <em>Journal of Royal Statistical Society Series B: Statistical Methodology</em>. <a href="https://doi.org/10.48550/arXiv.2101.09195">https://doi.org/10.48550/arXiv.2101.09195</a>.
+    <ul>
+      <li>
+	<a href="https://github.com/li-xinran/RIQITE">R package (<strong>RIQITE</strong>)</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
     <a href="/files/caughey_et_al_2017_nonparametric_combination/caughey_et_al_2017_nonparametric_combination.pdf">“Nonparametric Combination (NPC): A Framework for Testing Elaborate Theories”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a> and <a href="https://sites.google.com/site/jnsacademic/">Jason Seawright</a>). 2017. <em>Journal of Politics</em> 79 (2): 688–701. <a href="http://dx.doi.org/10.1086/689287">http://dx.doi.org/10.1086/689287</a>.
     <ul>
       <li>
@@ -343,7 +354,6 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 ## Working papers ##
 
-  * ["Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects"](/files/working/caughey_et_al_bounded_null_221215.pdf) (with Allan Dafoe, Xinran Li, and Luke Miratrix)
   * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_conjoint_irt_210421.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
   * ["Creating a Constituency for Liberalism: The Political Effects of the Tennessee Valley
 Authority"](/files/working/caughey_chatfield_tva_221129.pdf) (with Sara Chatfield)
