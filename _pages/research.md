@@ -63,6 +63,9 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
       <li>
 	Download <a href="https://www.dropbox.com/t/MRDUHsLpFAzNBDhu">updated estimates of state policy and mass ideology 1936–2020</a>
       </li>
+      <li>
+	Download <a href="https://www.dropbox.com/scl/fi/khjs9rds5u6ymvvmwgcxw/policies_long.csv?rlkey=32l2nlulsp8ebure5vi0ka04g&dl=1">policy data 1936–2020</a>
+      </li>
     </ul>
   </li>
 </ul>
