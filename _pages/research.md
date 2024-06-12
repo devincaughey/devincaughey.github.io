@@ -360,7 +360,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
   * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_conjoint_irt_210421.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
   * ["Creating a Constituency for Liberalism: The Political Effects of the Tennessee Valley
 Authority"](/files/working/caughey_chatfield_tva_221129.pdf) (with Sara Chatfield)
-  * “Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach” (with Elissa Berwick)
+  * [“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”](/files/working/caughey_berwick_modgirt_240520.pdf) (with Elissa Berwick)
   * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
 
 ## Dormant projects ##
