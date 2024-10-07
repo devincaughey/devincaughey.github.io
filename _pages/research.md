@@ -275,6 +275,23 @@ Since the mid-twentieth century, elite political behavior in the United States h
   </li>
 </ul>
 
+<ul>
+  <li>
+    <a href="/files/berwick_caughey_2024_modgirt/berwick_caughey_2024_modgirt.pdf">“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”</a> (with <a href="https://www.elissaberwick.com">Elissa Berwick</a>). Forthcoming <em>Political Analysis</em>.
+    <ul>
+      <li>
+	<details>
+	  <summary>Abstract</summary>
+	  Dynamic models of aggregate public opinion are increasingly popular, but to date they have been restricted to unidimensional latent traits. This is problematic because in many domains the structure of mass preferences is multidimensional. We address this limitation by deriving a multidimensional ordinal dynamic group-level item response theory (MODGIRT) model. We describe the Bayesian estimation of the model and describe a novel workflow for dealing with the tricky problem of identification. With simulations, we show that MODGIRT recovers aggregate parameters without estimating subject-level ideal points and is robust to moderate violations of assumptions. We further validate the model by reproducing at the group level an existing individual-level analysis of British attitudes towards redistribution. We then reanalyze a recent cross-national application of a group-level IRT model, replacing its domain-specific confirmatory approach with an exploratory MODGIRT model. We describe extensions to allow for overdispersion, differential item functioning, and group-level predictors. A publicly available R package implements these methods.
+	</details>
+      </li>
+      <li>
+	<a href="https://github.com/devincaughey/dbmm">R package (<strong>dbmm</strong>)</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
 ### Survey weighting ###
 
 <ul>
@@ -360,11 +377,10 @@ Since the mid-twentieth century, elite political behavior in the United States h
   * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_conjoint_irt_210421.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
   * ["Creating a Constituency for Liberalism: The Political Effects of the Tennessee Valley
 Authority"](/files/working/caughey_chatfield_tva_221129.pdf) (with Sara Chatfield)
-  * [“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”](/files/working/caughey_berwick_modgirt_240520.pdf) (with Elissa Berwick)
   * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
+  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](/files/working/caughey_et_al_bureaucratic_autonomy_241003.pdf) (with Sara Chatfield and Adam Cohon)
 
 ## Dormant projects ##
 
   * ["Target Selection as Variable Selection: Using the Lasso to Select Auxiliary Vectors
 for the Construction of Survey Weights"](/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
-  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](/files/dormant/caughey_et_al_2009_bureaucratic_autonomy.pdf) (with Sara Chatfield and Adam Cohon)
