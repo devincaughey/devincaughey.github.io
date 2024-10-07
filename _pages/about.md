@@ -18,9 +18,10 @@ Technology](https://www.mit.edu). Before joining MIT in 2012, I studied at Yale
 Most of my [research](https://devincaughey.github.io/research/) focuses on American politics, but I have also published on comparative politics, international relations, and political methodology. I am particularly interested in how representation and accountability have evolved over the course of American history, and I often use a combination of Bayesian measurement models and causal inference methods to study these questions.
 
 Among my current responsibilities are serving as my department's Director of
-Graduate Studies, co-editing [*The Forum: A Journal of Applied Research in
-Contemporary Politics*](https://www.degruyter.com/journal/key/for/html), and
-serving on the board of the [Consortium on the American Political
+[Graduate Studies](https://polisci.mit.edu/graduate/phd), co-editing [*The
+Forum: A Journal of Applied Research in Contemporary
+Politics*](https://www.degruyter.com/journal/key/for/html), and serving on the
+board of the [Consortium on the American Political
 Economy](https://www.americanpoliticaleconomy.org).
 
 I pronounce my surname so that it rhymes with "doughy" (IPA: 'koʊi).
