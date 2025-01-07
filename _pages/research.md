@@ -315,7 +315,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="https://doi.org/10.48550/arXiv.2101.09195">“Randomization Inference beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>, Xinran Li, and Luke Miratrix). Forthcoming. <em>Journal of Royal Statistical Society Series B: Statistical Methodology</em>. <a href="https://doi.org/10.48550/arXiv.2101.09195">https://doi.org/10.48550/arXiv.2101.09195</a>.
+    <a href="https://doi.org/10.48550/arXiv.2101.09195">“Randomisation Inference Beyond the Sharp Null: Bounded Null Hypotheses and Quantiles of Individual Treatment Effects”</a> (with <a href="https://www.allandafoe.com">Allan Dafoe</a>, <a href="https://sites.google.com/view/xinranli">Xinran Li</a>, and <a href="https://cares.gse.harvard.edu/about-luke-miratrix">Luke Miratrix</a>). 2023. <em>Journal of Royal Statistical Society Series B: Statistical Methodology</em> 85:1471–1491. <a href="https://doi.org/10.48550/arXiv.2101.09195">https://doi.org/10.48550/arXiv.2101.09195</a>.
     <ul>
       <li>
 	<a href="https://github.com/li-xinran/RIQITE">R package (<strong>RIQITE</strong>)</a>
