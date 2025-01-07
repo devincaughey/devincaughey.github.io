@@ -1,0 +1,14 @@
+Codebook for `CaugheyWarshaw_DynamicDemocracyAmericanStates_Export_2021.dta`
+
+  * `abb`: state USPS abbreviation
+  * `year`: year
+  * `policy_updated`: estimated state policy conservatism (all policies)
+  * `policy_updated_se`: estimated standard error of `policy_updated`
+  * `policy_updated_economic`: estimated state economic policy conservatism
+  * `policy_updated_economic_se`: estimated standard error of `policy_updated_economic`
+  * `policy_updated_social`: estimated state social/cultural policy conservatism
+  * `policy_updated_social_se`: estimated standard error of `policy_updated_cultural`
+  * `mass_cult_con_est`: estimated social/cultural conservatism of state public
+  * `mass_cult_con_se`: estimated standard error of `mass_cult_con_est`
+  * `mass_econ_con_est`: estimated economic conservatism of state public
+  * `mass_econ_con_se`: estimated standard error of `mass_econ_con_est`
