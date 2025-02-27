@@ -354,7 +354,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 <ul>
   <li>
     "Debt relief as a window onto the American state." 2024. Edited by Mark
-Graber. *Balkinization* (blog). Symposium on Emily Zackin and Chloe Thurston, *The Political Development of American Debt Relief* (University of Chicago Press, 2024), August 18, 2024. <https://balkin.blogspot.com/2024/08/debt-relief-as-window-onto-american.html>
+Graber. <em>Balkinization</em> (blog). Symposium on Emily Zackin and Chloe Thurston, <em>The Political Development of American Debt Relief</em> (University of Chicago Press, 2024), August 18, 2024. <a href="https://balkin.blogspot.com/2024/08/debt-relief-as-window-onto-american.html">https://balkin.blogspot.com/2024/08/debt-relief-as-window-onto-american.html</a>.
   </li>
   <li>
     Review of <em>A Troubled Birth: The 1930s and American Public Opinion</em>, by Susan Herbst. 2022. <em>Perspectives on Politics</em> 20 (3): 1102–1104. <a href="https://doi.org/10.1017/S1537592722001724">https://doi.org/10.1017/S1537592722001724</a>.
