@@ -146,7 +146,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
         Replication <a href="/files/caughey_2018_unsolid_south/replication/data/st_mass_con.dta">data</a> and <a href="/files/caughey_2018_unsolid_south/replication/codebook/econ_st_codebook.pdf">codebook</a>
       </li>     
       <li>
-        Buy from <a href="https://press.princeton.edu/titles/13231.html">Princeton Univeristy Press</a> or <a href="https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=">Amazon</a>
+        Buy from <a href="https://press.princeton.edu/titles/13231.html">Princeton University Press</a> or <a href="https://www.amazon.com/Unsolid-South-Representation-International-Perspectives/dp/0691181802/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=&amp;sr=">Amazon</a>
       </li>
     </ul>
   </li>
@@ -242,7 +242,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
       <li>
 	<details>
 	  <summary>Abstract</summary>
-	  Social scientists are frequently interested in how populations evolve over time. Creating poststratification weights for surveys, for example, requires information on the weighting variables’ joint distribution in the target population. Typically, however, population data are sparsely available across time periods. Even when population data are observed, the content and structure of the data—which variables are observed and whether their marginal or joint distributions are known—differ across time, in ways that preclude straightforward interpolation. As a consequence, survey weights are often based only on the small subset of auxiliary variables whose joint population distribution is observed regularly over time, and thus fail to take full advantage of auxiliary information. To address this problem, we develop a dynamic Bayesian ecological inference model for estimating multivariate categorical distributions from sparse, irregular, and noisy data on their marginal (or partially joint) distributions. Our approach combines (1) a Dirichlet sampling model for the observed margins conditional on the unobserved cell proportions; (2) a set of equations encoding the logical relationships among different population quantities; and (3) a Dirichlet transition model for the period-specific proportions that pools information across time periods. We illustrate this method by estimating annual U.S. phone-ownership rates by race and region based on population data irregularly available between 1930 and 1960. This approach may be useful in a wide variety of contexts where scholars wish to make dynamic ecological inferences about interior cells from marginal data. A new R package estsubpop implements the method.
+	  Social scientists are frequently interested in how populations evolve over time. Creating poststratification weights for surveys, for example, requires information on the weighting variables’ joint distribution in the target population. Typically, however, population data are sparsely available across time periods. Even when population data are observed, the content and structure of the data—which variables are observed and whether their marginal or joint distributions are known—differ across time, in ways that preclude straightforward interpolation. As a consequence, survey weights are often based only on the small subset of auxiliary variables whose joint population distribution is observed regularly over time, and thus fail to take full advantage of auxiliary information. To address this problem, we develop a dynamic Bayesian ecological inference model for estimating multivariate categorical distributions from sparse, irregular, and noisy data on their marginal (or partially joint) distributions. Our approach combines (1) a Dirichlet sampling model for the observed margins conditional on the unobserved cell proportions; (2) a set of equations encoding the logical relationships among different population quantities; and (3) a Dirichlet transition model for the period-specific proportions that pools information across time periods. We illustrate this method by estimating annual U.S. phone-ownership rates by race and region based on population data irregularly available between 1930 and 1960. This approach may be useful in a wide variety of contexts where scholars wish to make dynamic ecological inferences about interior cells from marginal data. A new R package **estsubpop** implements the method.
 	</details>
       </li>
       <li>
@@ -349,9 +349,13 @@ Since the mid-twentieth century, elite political behavior in the United States h
   </li>
 </ul>
 
-## Non-referreed publications ##
+## Non-refereed publications ##
 
 <ul>
+  <li>
+    "Debt relief as a window onto the American state." 2024. Edited by Mark
+Graber. *Balkinization* (blog). Symposium on Emily Zackin and Chloe Thurston, *The Political Development of American Debt Relief* (University of Chicago Press, 2024), August 18, 2024. <https://balkin.blogspot.com/2024/08/debt-relief-as-window-onto-american.html>
+  </li>
   <li>
     Review of <em>A Troubled Birth: The 1930s and American Public Opinion</em>, by Susan Herbst. 2022. <em>Perspectives on Politics</em> 20 (3): 1102–1104. <a href="https://doi.org/10.1017/S1537592722001724">https://doi.org/10.1017/S1537592722001724</a>.
   </li>
