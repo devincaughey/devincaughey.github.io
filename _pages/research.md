@@ -378,12 +378,13 @@ Graber. <em>Balkinization</em> (blog). Symposium on Emily Zackin and Chloe Thurs
 
 ## Working papers ##
 
-  * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_conjoint_irt_210421.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
   * ["TVA Liberals: The Policy Feedbacks of the Tennessee Valley Authority"](/files/working/caughey_chatfield_tva_251202.pdf) (with Sara Chatfield)
+  * ["Ethnicity and Climate Dissensus in Africa"](/files/working/caughey_johnston_lieberman_climate_africa-251202.pdf)
   * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
-  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](/files/working/caughey_et_al_bureaucratic_autonomy_241003.pdf) (with Sara Chatfield and Adam Cohon)
 
 ## Dormant projects ##
 
   * ["Target Selection as Variable Selection: Using the Lasso to Select Auxiliary Vectors
 for the Construction of Survey Weights"](/files/dormant/caughey_hartman_2017_lasso_weighting.pdf) (with Erin Hartman)
+  * [“Item Response Theory for Conjoint Survey Experiments”](/files/working/caughey_et_al_conjoint_irt_210421.pdf) (with Hiroto Katsumata and Teppei Yamamoto)
+  * [“Defining, Mapping, and Measuring Bureaucratic Autonomy”](/files/working/caughey_et_al_bureaucratic_autonomy_241003.pdf) (with Sara Chatfield and Adam Cohon)
