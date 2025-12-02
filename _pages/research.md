@@ -221,7 +221,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="/files/berwick_caughey_2024_modgirt/berwick_caughey_2024_modgirt.pdf">“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”</a> (with <a href="https://www.elissaberwick.com">Elissa Berwick</a>). 2025 <em>Political Analysis</em> 33(2): 91-106. <a href="https://doi.org/10.1017/pan.2024.25">https://doi.org/10.1017/pan.2024.25</a>
+    <a href="/files/berwick_caughey_2024_modgirt/berwick_caughey_2024_modgirt.pdf">“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”</a> (with <a href="https://www.elissaberwick.com">Elissa Berwick</a>). 2025. <em>Political Analysis</em> 33(2): 91-106. <a href="https://doi.org/10.1017/pan.2024.25">https://doi.org/10.1017/pan.2024.25</a>
     <ul>
       <li>
 	<details>
@@ -378,7 +378,7 @@ Graber. <em>Balkinization</em> (blog). Symposium on Emily Zackin and Chloe Thurs
 
 ## Working papers ##
 
-  * ["TVA Liberals: The Policy Feedbacks of the Tennessee Valley Authority"](/files/working/caughey_chatfield_tva_251202.pdf) (with Sara Chatfield)
+  * ["TVA Liberals: The Policy Feedbacks of the Tennessee Valley Authority"](/files/working/caughey_chatfield_tva-251202.pdf) (with Sara Chatfield)
   * ["Ethnicity and Climate Dissensus in Africa" (with Preston Johnston and Evan Lieberman)](/files/working/caughey_johnston_lieberman_climate_africa-251202.pdf)
   * "The Composition of the American Electorate, 1980--2024" (with Bernard Fraga, Christopher Warshaw, and Robert Griffin)
   * "Party Control and Societal Outcomes in the American States" (with Seth J. Hill and Christopher Warshaw)
