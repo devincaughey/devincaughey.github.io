@@ -221,7 +221,7 @@ Since the mid-twentieth century, elite political behavior in the United States h
 
 <ul>
   <li>
-    <a href="/files/berwick_caughey_2024_modgirt/berwick_caughey_2024_modgirt.pdf">“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”</a> (with <a href="https://www.elissaberwick.com">Elissa Berwick</a>). Forthcoming <em>Political Analysis</em>.
+    <a href="/files/berwick_caughey_2024_modgirt/berwick_caughey_2024_modgirt.pdf">“Dynamic Multidimensional Scaling with Aggregate Data: An Ordinal Group-Level IRT Approach”</a> (with <a href="https://www.elissaberwick.com">Elissa Berwick</a>). 2025 <em>Political Analysis</em> 33(2): 91-106. <a href="https://doi.org/10.1017/pan.2024.25">https://doi.org/10.1017/pan.2024.25</a>
     <ul>
       <li>
 	<details>
