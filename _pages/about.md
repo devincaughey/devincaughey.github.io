@@ -21,12 +21,12 @@ Among my current responsibilities are:
 
   * Director of
 [Graduate Studies](https://polisci.mit.edu/graduate/phd) for the MIT Political Science Department
-  * editorial board of the [*American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/information/about-this-journal/editorial-board)
-  * co-chair of the [American Political Economy section](https://apsanet.org/membership/organized-sections/section54/) at APSA 2026
-  * board of the [Consortium on the American Political
+  * Editorial board of the [*American Political Science Review*](https://www.cambridge.org/core/journals/american-political-science-review/information/about-this-journal/editorial-board)
+  * Co-chair of the [American Political Economy section](https://apsanet.org/membership/organized-sections/section54/) at APSA 2026
+  * Board of the [Consortium on the American Political
 Economy](https://www.americanpoliticaleconomy.org)
-  * chair of the [Politics and History](https://apsanet.org/membership/organized-sections/section24/) section's J. David Greenstone Book Prize committee
+  * Chair of the [Politics and History](https://apsanet.org/membership/organized-sections/section24/) section's J. David Greenstone Book Prize committee
 
-I pronounce my surname so that it rhymes with "doughy" (IPA: 'koʊi).
+The most recent version of my CV can be found  [here](https://www.dropbox.com/s/n7g8eo7dnvba74o/DevinCaugheyCV.pdf?dl=1).
 
-the most recent version of my CV can be found  [here](https://www.dropbox.com/s/n7g8eo7dnvba74o/DevinCaugheyCV.pdf?dl=1).
+p.s. I pronounce my surname so that it rhymes with "doughy" (IPA: 'koʊi).
