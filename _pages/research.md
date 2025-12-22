@@ -346,6 +346,9 @@ Since the mid-twentieth century, elite political behavior in the United States h
 <ul>
   <li>
     <a href="/files/caughey_sekhon_2011_election_rd/caughey_sekhon_2011_election_rd.pdf">“Elections and the Regression Discontinuity Design: Lessons from Close U.S. House Races, 1942–2008”</a> (with <a href="http://sekhon.berkeley.edu">Jasjeet S. Sekhon</a>). 2011. <em>Political Analysis</em> 19 (4): 385–408. <a href="http://dx.doi.org/10.1093/pan/mpr032">http://dx.doi.org/10.1093/pan/mpr032</a>
+      <li>
+	Download <a href="files/caughey_sekhon_2011_election_rd/RDReplication140410.dta">replication data (corrected April 10, 2014)</a>
+      </li>
   </li>
 </ul>
 
