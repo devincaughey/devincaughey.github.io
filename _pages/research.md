@@ -62,6 +62,7 @@ My [non-refereed publications](#non-refereed-publications), active [working pape
       </li>
       <li>
 	Public opinion and state policy data from the *Dynamic Democracy* project can be expored and dowloaded from <a href="https://dynamicdemocracy.shinyapps.io/ShinyApp/">project website</a>.
+      </li>
     </ul>
   </li>
 </ul>
